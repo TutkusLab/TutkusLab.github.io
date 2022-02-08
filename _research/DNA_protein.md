@@ -6,7 +6,7 @@ collection: research
 date: 2022-02-06
 author_profile: true
 header:
-  teaser: dnaLooping.jpeg
+  teaser: dnaLooping.jpg
 layout: archive
 ---
 
