@@ -1,6 +1,5 @@
 ---
 title: "Open microscopy"
-quote: "add quote (MT)."
 shortd: "Single-molecule localization microscopy (SMLM) helped to reveal nanoscale molecular structures and their dynamics. However, it requires state-of-the-art scientific-grade equipment. We arre working on cost-effective super-resolution microscope solution (approx. 50K Euro) that can perform dual-channel widefield, confocal and TIRF imaging. This project is standing on a base of miCube microscope (approx. 110K Euro)." 
 type: Open microscopy
 collection: research

@@ -1,7 +1,6 @@
 ---
 title: "Single-molecule level DNA-protein interaction studies"
 shortd: "add short description here (MT)."
-quote: "add a quote here (MT)."
 type: "SM DNA protein studies"
 collection: research
 date: 2022-02-06
@@ -23,7 +22,7 @@ Intro paragraph2.
 <br>
 
 <figure style="width: 60%" class="align-center">
-<img src='/images/dnaLoopingEcl.gif'>
+<img src='/images/dnaLoopingEcl.jpg'>
 <figcaption>Figure 1: The smFRET-based DNA looping assay that we employed for studies of DNA-Ecl18kI (restriction endonuclease) interaction.</figcaption>
 </figure>
 

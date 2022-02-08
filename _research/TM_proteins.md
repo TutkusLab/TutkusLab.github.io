@@ -1,6 +1,5 @@
 ---
 title: "Transmembrane protein studies"
-quote: "add quote (MT)."
 shortd: "add short description (MT)." 
 type: Transmembrane protein
 collection: research
