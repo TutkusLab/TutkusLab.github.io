@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "News"
-    url: /news/
+  #- title: "News"
+  #  url: /news/
 
   # - title: "Outreach"
   #   url: /outreach/
@@ -27,8 +27,8 @@ main:
   # - title: "Gallery"
   #   url: /gallery/
 
-  - title: "Positions"
-    url: /positions/
+  #- title: "Positions"
+  #  url: /positions/
 
   - title: "Contact"
     url: /contact/
@@ -36,14 +36,17 @@ main:
   # - title: "CV"
   #   url: https://henriqueslab.github.io/files/Ricardo_Henriques_CV.pdf
 
-  - title: "BrightEyes_ERC"
-    url: /brighteyes/
+#  - title: "BrightEyes_ERC"
+#    url: /brighteyes/
 
-  - title: "Lab@IIT"
-    url: https://www.iit.it/research/lines/molecular-microscopy-and-spectroscopy
+ # - title: "Open_microscopy"
+ #   url: /open_microscopy/
 
-  #- title: "Lab@Crick"
-  #  url: https://www.crick.ac.uk/partnerships/university-partnerships/our-university-attachments
+  - title: "lab@VU_GMC"
+    url: http://www.bti.vu.lt/skyriai/baltymu-nukleorugsciu-saveikos-tyrimu-skyrius
+
+  - title: "lab@FTMC"
+    url: https://www.ftmc.lt/molekuliniu-dariniu-fizikos-skyrius
 
 
 # Projs:

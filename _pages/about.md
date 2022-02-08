@@ -14,34 +14,23 @@ image_sliders:
 
 {::options parse_block_html="true" /}
 
-<h2>Our Goal</h2>
+<h2>About our team</h2>
 <body align="justify">
-Because of their non-invasive effect on living systems, light microscopy and spectroscopy have been the workhorses for studies of structures and functions at the cellular, sub-cellular and molecular levels for almost a century.
-However, many challenging questions of molecular and cellular biology remain beyond their conventional capabilities. The spatiotemporal resolutions, the labeling, and the contrast methods of conventional microscopy and spectroscopy pose fundamental limits for investigating the smallest and fastest puzzling mysteries of life. Furthermore, the information content potentially encoded in a microscopy or spectroscopy experiement is often lost (because of averaging, for example) or not decoded.
-The core research of our group is the design, development, and validation of novel optical and analytical tools that allow the modern biologists to peer inside living cells and organisms with unprecedented temporal-spatial resolutions, minimal invasivity, and augmented information content.
-This goal can be achieved only by working across many disciplines, from physics to engineering, from computer science to biology. Our projects want to synergically integrate novel contrast imaging mechanisms, labeling probes, optical architectures, and computational approaches that can be readily adopted by researchers all over the world.
+Recently our team developed an alternative assay to the original DNA Curtains that we termed the Soft DNA Curtains. We fabricated streptavidin or traptavidin patterns (i.e. line-features) on the modified coverslip surface that can be utilized to assemble stably immobilized biotinylated DNA arrays. The application of hydrodynamic buffer flow allows extension of the immobilized DNA molecules along the surface of the flowcell channel. 
 
-<h2>Last News</h2>
-<body align="justify">
-Our paper in [Biophysical Report](https://doi.org/10.1016/j.bpr.2021.100025) is out. Our new cooled SPAD array detector allows for sub-microWatt (excitation) super-resolution live-cell imaging and roboust high-informative fluorescence fluctuation spectroscopy. Furthermore, it opens to new exciting perspective for single-molecule techniques.
-<h2>Where To Meet Us</h2>
-<body align="justify">
+This year we published a follow-up article in Langmuir on the [Oriented Soft DNA Curtains](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.1c00066).In this work, we fabricated the uniformly oriented double-tethered DNA Curtains using heterologous labeling of the DNA by biotin and digoxigenin. In addition to that we increased stability of the immobilized DNA molecules using a more stable alternative to sAv called traptavidin as an ink for the fabrication of protein templates.
 
+The main goal of our research is to apply the developed platform for studies of DNA targeting mechanisms of diverse CRISPR-Cas (Clustered regulatory interspaced short palindromic repeats) systems family, novel molecular-tools – prokaryotic Argonaute (pAgo) proteins, and various restriction endonucleases. Since 2017 for these studies we received two grants from the Lithuanian research council (LRC): S-MIP-17-59 and S-MIP-20-55. Also, we received funding for a post-doc project (LRC., Nr.09.3.3-LMT-K-712-19-0113) dedicated for pAgo studies.
 
-<!--- * February 22nd - 26th, 2021, (On Demand, March 5th - April 23th, 2021) [65th Biophysical Society Meetting](https://www.biophysics.org/2021meeting#/)-->
-<!---* March 28th - 31st, 2021, [Focus on Microscopy 2021](http://www.focusonmicroscopy.org)-->
-<!---* April 12nd - 16th, 2021, [OSA: Biophotonics Congress: Optics in the Life Sciences](https://www.osa.org/en-us/meetings/osa_meetings/osa_biophotonics_congress/)-->
-<!---* May 20th - 21st, 2021, [EMBL in Italy 2021: A Brave New World of RNA](https://www.embl.de/aboutus/alumni/events-networks/local-chapters/italy/48_genoa_2021/)--> 
-<!---* June 21st - 25th, 2021, [CLEO/EUROPE-EQEC 2021](https://www.cleoeurope.org)--->
-<!---* June 28th, 2021, [EPIC Online Technology Meeting on Novel Photonic Solutions for Microscopy](https://www.epic-assoc.com/epic-online-technology-meeting-on-novel-photonic-solutions-for-microscopy/)--->
-* June 28th - July 1st, 2021, [XXV Congresso Nazionale SIBPA 2021](https://www.sibpa.it/CongressoNazionaleSIBPAParma/)
-* July 12th - 16th, 2021, [EMBL Super-Resolution Microscopy: Time-Resolved STED Nanoscopy](https://www.embl.org/about/info/course-and-conference-office/events/mic21-03/)
-* August 31th - September 2nd, 2021, [Single Molecule Localization Microscopy Symposium](https://smlms.epfl.ch)
-* September 29th - October 1st, 2021, [Single Molecule Spectroscopy and Super-resolution Microscopy](https://www.picoquant.com/events/detail/single-molecule-workshop)
+With the help of this LRC funding and our recent grant from Vilnius University Science Fund (MSF-JM-10/2021) we started development of a home-made fluorescence microscopy dedicated for super-resolution studies. This project involves micro-mirror TIRF system development and industrial-grade CMOS camera application for such studies. Our new set-up was cited in [Nature Methods](https://www.nature.com/articles/s41592-021-01313-1?proof=t%29Nature). Also, we are working on Phyton-based microscope control and single-molecule localization microscopy data analysis (SMLM) packages. This project is entitle [microEye](https://github.com/samhitech/microEye). 
+
+This year we also received funding for improvement of Soft DNA Curtains stability (01.2.1-MITA-T-851-01-0163) and also Soft RNA Curtains platform (01.2.1-MITA-T-852-01-0218). These projects will help us to make our Soft DNA Curtains platform more attractive to other research groups. Also, it will allow us to study the RNA-interacting proteins that are important e.g .for virus infection.
   
 <h2>The Laboratory</h2>
 <body align="justify">
-We're based at the Center for Human Technology at the [Istituto Italiano di Tecnologia](https://iit.it).
+We're based at the:
+Life Sciences Center at the [Vilnius University](https://www.gmc.vu.lt/en/)
+Center for Physical Sciences and Technology [FTMC](https://www.ftmc.lt/biofizikiniu-tyrimu-laboratorija).
   
 
   

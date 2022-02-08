@@ -7,15 +7,15 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vicidomini Lab"
+title                    : "Tutkus Lab"
 title2                    : "Start page"
 title_separator          : "-"
-name                     : &name "Giuseppe Vicidomini's Lab"
-description              : &description "Molecular Microscopy and Spectroscopy"
-url                      : https://VicidominiLab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Marijonas Tutkus' Lab"
+description              : &description "Single-molecule biophysics"
+url                      : https://TutkusLab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "VicidominiLab/VicidominiLab.github.io"
+repository               : "TutkusLab/TutkusLab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter VicidominiLab
+  username               : &twitter MTutkus
 facebook:
   username               :
   app_id                 :
@@ -75,13 +75,13 @@ social:
 
 # Site Author
 author:
-  name             : "Giuseppe Vicidomini"
-  avatar           : "https://VicidominiLab.github.io/images/GV.jpg"
-  bio              : "Senior Reseracher Tenured, Principal Investigator"
-  location         : "Genoa, IT"
+  name             : "Marijonas Tutkus"
+  avatar           : "https://TutkusLab.github.io/images/MT.jpg"
+  bio              : "Senior Reseracher, Team leader (PI)"
+  location         : "Vilnius, LTU"
   employer         :
-  googlescholar    : "https://scholar.google.it/citations?user=VnTrCCYAAAAJ&hl=en"
-  email            : "giuseppe.vicidomini@iit.it"
+  googlescholar    : "https://scholar.google.com/citations?user=wL27LygAAAAJ&hl=en"
+  email            : "marijonas.tutkus@gmc.vu.lt"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,19 +89,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "VicidominiLab"
+  github           : "TutkusLab"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-3085-730X"
+  orcid            : "https://orcid.org/0000-0002-5795-1347"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "VicidominiLab"
+  twitter          : "MTutkus"
   vine             :
   weibo            :
   xing             :

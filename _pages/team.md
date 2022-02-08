@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <hr-bold>
-<h2>Principal Investigator</h2>
+<h2>Team leader (PI)</h2>
 <hr><br>
 <div class="grid">
 <div class="wrapper">
@@ -17,19 +17,6 @@ author_profile: true
   {% endfor %}
 </div>
 </div>
-
-<hr-bold>
-<h2>Post-Doctoral Researchers</h2>
-<hr><br>
-<div class="grid">
-<div class="wrapper">
-  {% for post in site.team %}
-    {% if post.tags contains 'post-doc' %}
-    {% include archive-single-proj.html type="grid" %}
-    {% endif %}
-  {% endfor %}
-  </div>
-  </div>
 
 <hr-bold>
 <h2>PhD Students</h2>
@@ -58,43 +45,17 @@ author_profile: true
 </div>  
   
 <hr-bold>
-<h2>Technicians</h2>
+<h2>Undergraduate Master Students</h2>
 <hr><br>
 <div class="grid">
 <div class="wrapper">
   {% for post in site.team %}
-    {% if post.tags contains 'technician' %}
+    {% if post.tags contains 'undergraduate' %}
       {% include archive-single-proj.html type="grid" %}
     {% endif %}
   {% endfor %}
 </div>
 </div>
-  
-<hr-bold>
-<h2>Assistants</h2>
-<hr><br>
-<div class="grid">
-<div class="wrapper">
-  {% for post in site.team %}
-    {% if post.tags contains 'assistant' %}
-      {% include archive-single-proj.html type="grid" %}
-    {% endif %}
-  {% endfor %}
-</div>
-</div>  
-
-<!--- <hr-bold>
- <h2>Internship Students</h2>
- <hr><br>
- <div class="grid">
- <div class="wrapper">
-  {% for post in site.team %}
-    {% if post.tags contains 'internship' %}
-      {% include archive-single-proj.html type="grid" %}
-    {% endif %}
-  {% endfor %}
- </div>
- </div> -->
 
 <hr-bold>
 <h2>Alumni</h2>
