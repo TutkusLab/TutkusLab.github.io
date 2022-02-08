@@ -16,13 +16,13 @@
   bullets: True
   captions: True
   images:
-    - src: /images/open_microscopy_image_MT.jpg
+    - src: images/open_microscopy_image_MT.jpg
       alt: our itertion of miCube
-    - src: /images/soft_dna_curtains.jpg
+    - src: images/soft_dna_curtains.jpg
       alt: Soft DNA Curtains
-    - src: /images/dnaLoopingEcl.jpg
+    - src: images/dnaLoopingEcl.jpg
       alt: smFRET-based DNA looping assay
-    - src: /images/gattaPAint_ids_original.jpg
+    - src: images/gattaPAint_ids_original.jpg
       alt: Gatta PAINT 80R with our set-up (left) and original data from GATTA Quant      
   settings:
     height:  "'auto'"
