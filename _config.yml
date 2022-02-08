@@ -12,10 +12,10 @@ title2                    : "Start page"
 title_separator          : "-"
 name                     : &name "Marijonas Tutkus' Lab"
 description              : &description "Single-molecule biophysics"
-url                      : https://TutkusLab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://marijonast.github.io/TutkusLab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TutkusLab/TutkusLab.github.io"
+repository               : "marijonast.github.io/TutkusLab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -76,7 +76,7 @@ social:
 # Site Author
 author:
   name             : "Marijonas Tutkus"
-  avatar           : "https://TutkusLab.github.io/images/MT.jpg"
+  avatar           : "https://marijonast.github.io/TutkusLab.github.io/images/MT.jpg"
   bio              : "Senior Reseracher, Team leader (PI)"
   location         : "Vilnius, LTU"
   employer         :
