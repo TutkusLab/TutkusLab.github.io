@@ -5,14 +5,10 @@ collection: team
 header:
   teaser: MNA.jpg
 tags: postgraduate
-#googlescholar:
-#tagline: MSCA EF-IF Research Fellow (former Fondazione San Paolo PostDoc Fellow)
-#subject: "Fluorescence Correlation Spectroscopy and Single-Molecule Imaging"
+tagline: MSc. Student - Vilnius University
 date: 2022-02-06
-#email: 'eli.slenders@iit.it'
-#twitter: EliSlenders  
 theme: "open_microscopy"
-# collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
+supervisors: "Dr. Marijonas Tutkus"
 ---
 
 <h2>About Nour</h2>

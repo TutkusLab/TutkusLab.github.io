@@ -5,14 +5,10 @@ collection: team
 header:
   teaser: MJ.jpg
 tags: undergraduate
-#googlescholar: 'https://scholar.google.com/citations?user=_LAg2cgAAAAJ&hl=it&oi=ao'
-#tagline: Postdoc Fellow
-subject: "DNA_protein"
+tagline: BSc. Student - Vilnius University
 date: 2022-02-06
-#email: 'eleonora.perego@iit.it'
-#twitter: '@EleonoraSPerego'
 theme: "TM_proteins, DNA_protein"
-# collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
+supervisors: "Dr. Marijonas Tutkus"
 ---
 
 <h2>About Meda</h2>
