@@ -22,7 +22,7 @@ Intro paragraph2.
 <br>
 
 <figure style="width: 60%" class="align-center">
-<img src="marijonast.github.io/TutkusLab.github.io/images/dnaLoopingEcl.jpg">
+<img src="https://marijonast.github.io/TutkusLab.github.io/images/dnaLoopingEcl.jpg">
 <figcaption>Figure 1: The smFRET-based DNA looping assay that we employed for studies of DNA-Ecl18kI (restriction endonuclease) interaction.</figcaption>
 </figure>
 
