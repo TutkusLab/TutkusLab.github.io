@@ -3,7 +3,7 @@ title: "Šarūnė Ivanovaitė"
 authorname: "Šarūnė Ivanovaitė"
 collection: team
 #header:
-#  teaser: SI.jpg
+teaser: person.png
 tags: postgraduate
 #tagline: ERC GoG PostDoc Fellow
 #subject: "Super-Resolution Microscopy, Control System, Single-Molecule Tracking"

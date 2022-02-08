@@ -3,7 +3,7 @@ title: "Simonas Ašmontas"
 authorname: "Simonas Ašmontas"
 collection: team
 #header:
-#  teaser: SA.jpg
+teaser: SA.jpg
 tags: postgraduate
 #tagline: Ph.D. Student - University of Genoa
 #subject: "Image Scanning Microcopy and Adaptive Optics"
