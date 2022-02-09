@@ -12,7 +12,7 @@ image_sliders:
 
 {% include slider.html selector="home" %}
 
-<!---{::options parse_block_html="true" /}--->
+{::options parse_block_html="true" /}
 
 <h2>About our team</h2>
 <body align="justify">
@@ -30,7 +30,8 @@ This year we also received funding for improvement of Soft DNA Curtains stabilit
 <body align="justify">
 We're based at the:
 Life Sciences Center at the <a href="https://www.gmc.vu.lt/en/"><span style="color:blue">Vilnius University</span></a>
-Center for Physical Sciences and Technology [FTMC](https://www.ftmc.lt/biofizikiniu-tyrimu-laboratorija).
+<br>
+Center for Physical Sciences and Technology <a href="https://www.ftmc.lt/biofizikiniu-tyrimu-laboratorija"><span style="color:blue">FTMC</span></a>.
   
 
   
