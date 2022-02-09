@@ -24,8 +24,9 @@
       alt: smFRET-based DNA looping assay    
   settings:
     height:  "'auto'"
-    interval: 10000
+    interval: 5000
     transitionDuration: 3000
+    maxHeight: 300
     effect: "'slide'"
 
 
