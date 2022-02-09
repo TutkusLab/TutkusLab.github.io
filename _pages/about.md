@@ -12,7 +12,7 @@ image_sliders:
 
 {% include slider.html selector="home" %}
 
-{::options parse_block_html="true" /}
+<!---{::options parse_block_html="true" /}--->
 
 <h2>About our team</h2>
 <body align="justify">
