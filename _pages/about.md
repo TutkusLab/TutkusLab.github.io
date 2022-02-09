@@ -29,7 +29,7 @@ This year we also received funding for improvement of Soft DNA Curtains stabilit
 <h2>The Laboratory</h2>
 <body align="justify">
 We're based at the:
-Life Sciences Center at the [Vilnius University](https://www.gmc.vu.lt/en/)
+Life Sciences Center at the <a href="https://www.gmc.vu.lt/en/"><span style="color:blue">Vilnius University</span></a>
 Center for Physical Sciences and Technology [FTMC](https://www.ftmc.lt/biofizikiniu-tyrimu-laboratorija).
   
 

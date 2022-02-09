@@ -16,11 +16,11 @@
   bullets: True
   captions: True
   images:
-    - src: images/open_microscopy_image_MT.jpg
+    - src: https://marijonast.github.io/TutkusLab.github.io/images/open_microscopy_image_MT.jpg
       alt: our itertion of miCube
-    - src: images/soft_dna_curtains.jpg
+    - src: https://marijonast.github.io/TutkusLab.github.io/images/soft_dna_curtains.jpg
       alt: Soft DNA Curtains
-    - src: images/dnaLoopingEcl.jpg
+    - src: https://marijonast.github.io/TutkusLab.github.io/images/dnaLoopingEcl.jpg
       alt: smFRET-based DNA looping assay    
   settings:
     height:  "'auto'"
