@@ -10,8 +10,6 @@ image_sliders:
   - home
 ---
 
-<!---{% include slider.html selector="home" %}--->
-
 {::options parse_block_html="true" /}
 
 <h2>About our team</h2>
