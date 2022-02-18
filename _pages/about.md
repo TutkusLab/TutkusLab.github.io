@@ -10,6 +10,8 @@ image_sliders:
   - home
 ---
 
+<meta name="google-site-verification" content="J-cYcQc7R2YTZFRLY1ztM89LGyzVgynRaYt48gcBSLk" />
+
 {::options parse_block_html="true" /}
 
 <h2>About our team</h2>
