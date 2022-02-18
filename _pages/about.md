@@ -10,15 +10,11 @@ image_sliders:
   - home
 ---
 
-<meta name="google-site-verification" content="J-cYcQc7R2YTZFRLY1ztM89LGyzVgynRaYt48gcBSLk" />
-
 {::options parse_block_html="true" /}
 
 <h2>About our team</h2>
 
 <body align="justify">
-
-DNA-protein interactions play a key role in many biological processes. One unifying aspect of these interactions is target search process. It involves different mechanisms that are different for each protein, but can be separated into these classes: 3D diffusion (i.e., jumping), sliding, and hopping. Those interactions can differ in number of DNA target sites that protein can bind. DNA-protein interactions can occur, when one protein interacts with two targets either on a single DNA molecule (i.e. in Cis interaction) or on two separate molecules (i.e. in Trans interaction).
 
 DNA-protein interaction occurs on a nanometer length scale at millisecond-to-second timescales. To monitor interactions occurring on the seconds time scale surface immobilization of one of interacting partners is often required. These interactions can be visualized at great detail through: force spectroscopy, fluorescence, Forster resonance energy transfer (FRET), atomic force microscopy (AFM), nanopores, DNA flow-stretch assays, etc [<a href="https://doi.org/10.3390/applnano3010002"><span style="color:blue">A. Kopūstas, et al. Applied Nano, 2022</span></a>]. Single-molecule FRET (smFRET) approach worked very well for many different protein-DNA interaction studies.
 
@@ -28,21 +24,18 @@ Restriction endonucleases (REases) in bacteria and archaea function as defense a
 <img src='https://marijonast.github.io/TutkusLab.github.io/images/dnaLoopingEcl.jpg' style='width: 75%'>
 </div>
 
+<br>
+
 <body align="justify">
-Recently our team developed an alternative assay to the original DNA Curtains that we termed the Soft DNA Curtains. We fabricated streptavidin or traptavidin patterns (i.e. line-features) on the modified coverslip surface that can be utilized to assemble stably immobilized biotinylated DNA arrays. The application of hydrodynamic buffer flow allows extension of the immobilized DNA molecules along the surface of the flowcell channel. 
-
-This year we published a follow-up article in Langmuir on the <a href="https://pubs.acs.org/doi/full/10.1021/acs.langmuir.1c00066"><span style="color:blue">Oriented Soft DNA Curtains</span></a>. In this work, we fabricated the uniformly oriented double-tethered DNA Curtains using heterologous labeling of the DNA by biotin and digoxigenin. In addition to that we increased stability of the immobilized DNA molecules using a more stable alternative to sAv called traptavidin as an ink for the fabrication of protein templates.
-
-The main goal of our research is to apply the developed platform for studies of DNA targeting mechanisms of diverse CRISPR-Cas (Clustered regulatory interspaced short palindromic repeats) systems family, novel molecular-tools – prokaryotic Argonaute (pAgo) proteins, and various restriction endonucleases. Since 2017 for these studies we received two grants from the Lithuanian research council. Also, we received funding for a post-doc project dedicated for pAgo studies.
+Recently our team developed an alternative assay to the original DNA Curtains that we termed the <a href="https://pubs.acs.org/doi/full/10.1021/acs.langmuir.1c00066"><span style="color:blue">Oriented Soft DNA Curtains</span></a>. The main goal of our research is to apply the developed platform for studies of DNA targeting mechanisms of diverse CRISPR-Cas (Clustered regulatory interspaced short palindromic repeats) systems family, novel molecular-tools – prokaryotic Argonaute (pAgo) proteins, and various restriction endonucleases. Since 2017 for these studies we received two grants from the Lithuanian research council. Also, we received funding for a post-doc project dedicated for pAgo studies.
 
 <div style="text-align: center">
 <img src='https://marijonast.github.io/TutkusLab.github.io/images/soft_dna_curtains.jpg' style='width: 75%'>
 </div>
 
+<br>
 <body align="justify">
 With the help of this LRC funding and our recent grant from Vilnius University Science Fund (MSF-JM-10/2021) we started development of a home-made fluorescence microscopy dedicated for super-resolution studies. This project involves micro-mirror TIRF system development and industrial-grade CMOS camera application for such studies. Recently our new set-up was cited <a href="https://www.nature.com/articles/s41592-021-01313-1?proof=t%29Nature"><span style="color:blue">Nature Methods</span></a>. Also, we are working on Phyton-based microscope control and single-molecule localization microscopy data analysis (SMLM) packages. This project is entitled <a href="https://github.com/samhitech/microEye"><span style="color:blue">microEye</span></a>. 
-
-This year we also received funding for improvement of Soft DNA Curtains. These projects will help us to make our Soft DNA Curtains platform more attractive to other research groups.
 
 <div style="text-align: center">
 <img src='https://marijonast.github.io/TutkusLab.github.io/images/open_microscopy_image_MT.jpg' style='width: 75%'>
