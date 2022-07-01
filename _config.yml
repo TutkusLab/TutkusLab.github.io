@@ -431,4 +431,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
