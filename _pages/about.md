@@ -50,7 +50,4 @@ Life Sciences Center at the <a href="https://www.gmc.vu.lt/en/"><span style="col
 Center for Physical Sciences and Technology <a href="https://www.ftmc.lt/biofizikiniu-tyrimu-laboratorija"><span style="color:blue">FTMC</span></a>.
   
 
-  
-
-  
-
+<meta name="google-site-verification" content="J-cYcQc7R2YTZFRLY1ztM89LGyzVgynRaYt48gcBSLk" />
