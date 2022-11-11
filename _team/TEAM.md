@@ -1,10 +1,10 @@
 ---
 title: "MT Team"
-authorname: "Team"
+authorname: "MT Team"
 collection: team
 header:
   teaser: TEAM.jpg
-tags: TEAM
+tags: MTTEAM
 tagline: MT Team at 2022 Puvočiai meating
 date: 2022-02-06
 theme: "DNA_protein, open_microscopy, TM_protein"

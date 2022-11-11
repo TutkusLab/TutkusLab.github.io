@@ -6,6 +6,19 @@ author_profile: true
 ---
 
 <hr-bold>
+<h2>MT Team photo (PI)</h2>
+<hr><br>
+<div class="grid">
+<div class="wrapper">
+  {% for post in site.team %}
+    {% if post.tags contains 'MTTEAM' %}
+      {% include archive-single-proj.html type="grid" %}
+    {% endif %}
+  {% endfor %}
+</div>
+</div>
+
+<hr-bold>
 <h2>Team leader (PI)</h2>
 <hr><br>
 <div class="grid">
