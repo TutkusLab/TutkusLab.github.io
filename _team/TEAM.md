@@ -6,7 +6,7 @@ header:
   teaser: TEAM.jpg
 tags: MTTEAM
 tagline: MT Team at the annual 2022 Puvočiai meeting
-date: 2022-02-06
+date: 2015-06-01
 theme: "DNA_protein, open_microscopy, TM_protein"
 supervisors: "Dr. Marijonas Tutkus"
 ---
