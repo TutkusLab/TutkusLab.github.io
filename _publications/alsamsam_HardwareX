@@ -1,0 +1,16 @@
+---
+title: "The miEye: Bench-top super-resolution microscope with cost-effective equipment"
+collection: publications
+date: 2022-10-01
+venue: 'HardwareX'
+authors: 'Mohammad Nour Alsamsam, Aurimas Kopūstas, Meda Jurevičiūtė, Marijonas Tutkus'
+paperurl: https://www.sciencedirect.com/science/article/pii/S2468067222001134
+tagline: '- Research paper, Corresponding author'
+doi: 10.1016/j.ohx.2022.e00368
+type:
+---
+
+<h2> Abstract </h2>
+<p align= "justify">
+Commercial super-resolution (SR) imaging systems require a high budget, while current more affordable open source microscopy systems lack modularity and sometimes are too complex or lack reliability. We present miEye – a cost-effective microscope designed for high-resolution wide-field fluorescence imaging. The build is constructed using a CNC milled aluminum microscope body and commercially available optomechanics, with open-source Python-based microscope control, data visualization, and analysis software integration. The data acquisition software works robustly with commonly used industrial-grade complementary metal oxide semiconductor (iCMOS) cameras, performs IR beam back-reflection-based automatic focus stabilization, and allows for laser control via an Arduino-based laser relay. The open-source nature of the design is aimed to facilitate adaptation by the community. The build can be constructed for a cost of roughly 50 k €. It contains SM-fiber and MM-fiber excitation paths that are easy to interchange and an adaptable emission path. Also, it ensures less than 5 nm per min stability of the sample on all axes, and allows achieving less than 30 nm lateral resolution for dSTORM and DNA-PAINT single-molecule localization microscopy (SMLM) experiments. Thus it serves as a cost-effective and adaptable addition to the open source microscopy community and potentially will allow high-quality SR imaging even for limited-budget research groups.
+
