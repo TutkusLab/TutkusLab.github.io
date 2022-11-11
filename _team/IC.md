@@ -1,6 +1,6 @@
 ---
-title: "Ignas Ciplys"
-authorname: "Ignas Ciplys"
+title: "Ignas Čiplys"
+authorname: "Ignas Čiplys"
 collection: team
 header:
   teaser: person.png
@@ -11,7 +11,7 @@ theme: "TM_protein"
 supervisors: "Dr. Marijonas Tutkus"
 ---
 
-<h2>About Oskaras</h2>
+<h2>About Ignas</h2>
 Ignas joined our team during his bachelor studies and worked on light-harvesting antenna proteins from plants. He worked in our team from 2017 summer till 2018 autumn.
 
 
