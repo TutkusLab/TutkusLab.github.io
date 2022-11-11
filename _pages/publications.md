@@ -9,7 +9,7 @@ author_profile: true
 You can find the complete publication list on <a href="https://scholar.google.com/citations?user=wL27LygAAAAJ&hl=en">
 <span style="color:gray">my Google Scholar profile</span></a>.
 
-<!---
+
 
 <ul style="margin:0;padding:0">
 {% for post in site.publications reversed %}
@@ -26,6 +26,6 @@ You can find the complete publication list on <a href="https://scholar.google.co
   {% endif %}
   {% if forloop.last %}</ul>{% endif %}
 
-{% endfor %} --->
+{% endfor %}
 
 
