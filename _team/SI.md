@@ -4,9 +4,9 @@ authorname: "Šarūnė Ivanovaitė"
 collection: team
 header:
   teaser: person.png
-tags: postgraduate
-tagline: MSc. Student - Vilnius University
-date: 2022-02-06
+tags: alumni
+tagline: MSc. Neurobiophyics degree - Vilnius University
+date: 2017-07-01
 theme: "DNA_protein, TM_protein"
 supervisors: "Dr. Marijonas Tutkus"
 ---

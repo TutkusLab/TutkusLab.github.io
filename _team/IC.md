@@ -1,18 +1,18 @@
 ---
-title: "Oskaras Venckus"
-authorname: "Oskaras Venckus"
+title: "Ignas Ciplys"
+authorname: "Ignas Ciplys"
 collection: team
 header:
   teaser: person.png
 tags: alumni
 tagline: BSc. Neurobiophyics degree - Vilnius University
-date: 2017-07-01
-theme: "DNA_protein, TM_protein"
+date: 2017-06-01
+theme: "TM_protein"
 supervisors: "Dr. Marijonas Tutkus"
 ---
 
 <h2>About Oskaras</h2>
-Oskaras joined our team during his bachelor studies and worked on DNA Curtains and light-harvesting antenna proteins from plants. He worked in our team from 2017 summer till 2019 spring.
+Ignas joined our team during his bachelor studies and worked on light-harvesting antenna proteins from plants. He worked in our team from 2017 summer till 2018 autumn.
 
 
 <!---{% include author-research-themes.html %}--->

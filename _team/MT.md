@@ -5,8 +5,8 @@ collection: team
 header:
   teaser: MT.jpg
 tags: PI
-tagline: Senior Researcher
-date: 2022-02-06
+tagline: PhD in Physics, Senior Researcher
+date: 2014-09-01
 email: 'marijonas.tutkus@gmc.vu.lt'
 ---
 
