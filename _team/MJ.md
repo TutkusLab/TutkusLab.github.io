@@ -12,7 +12,7 @@ supervisors: "Dr. Marijonas Tutkus"
 ---
 
 <h2>About Meda</h2>
-Meda joined our team during her bachelor studies, obtained BSc. degree in Molecular Biology (VU). And Currently is studying in MSc. Molecular biology programme (VU). Meda is working on several projects including single-particle-tracking super-resolution microscopy, single-molecule localization microscopy, yest cells and mammalian cells and is also highly skilled in molecular biology/biochemistry methods (cloning, cell work, purification, etc.).
+Meda joined our team during her bachelor studies, obtained BSc. degree in Molecular Biology (VU). And Currently is studying in MSc. Molecular biology programme (VU). Meda Jurevičiūtė is a first year MSc student in Molecular Biology at VU. In her BSc degree, she was working both with bacteria and mammalian cell lines, cell sample preparation for microscopy, and developed skills in cloning for bacterial and eukaryotic protein expression systems. Also, she has essential skills in SM fluorescence microscopy, data analysis, labelling of biomolecules and protein purification.
 
 
 <!--{% include author-research-themes.html %}--->
