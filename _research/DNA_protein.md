@@ -1,6 +1,6 @@
 ---
 title: "Single-molecule level DNA-protein interaction studies"
-shortd: "DNA-protein interactions play a key role in many biological processes. One unifying aspect of these interactions is target search process. It involves different mechanisms that are different for each protein, but can be separated into these classes: 3D diffusion (i.e., jumping), sliding, and hopping. One of the research topics of our lab is to investigate target search mechanisms of DNA-interacting proteins and one of the best ways to do that is to employ single-molecule fluorescence microscopy techniques."
+shortd: "DNA-protein interactions play a key role in many biological processes. One unifying aspect of these interactions is target search process. It involves different mechanisms that are different for each protein, but can be separated into these classes: 3D diffusion (i.e., jumping), sliding, and hopping. One of the research topics of our lab is to investigate interacion dynamics and target search mechanisms of DNA-interacting proteins and single-molecule fluorescence microscopy works very well for these studies."
 type: "SM DNA protein studies"
 collection: research
 date: 2022-02-06
