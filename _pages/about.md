@@ -12,11 +12,27 @@ image_sliders:
 
 {::options parse_block_html="true" /}
 
-<h2>About our team</h2>
+<h2>About our research</h2>
+
+<body align="center">
+
+In our research team we develop and apply bionanotechnology and cutting-edge fluorescence microscopy techniques to understand life at the molecular scale. Using these techneques we are trying to answer these questions:
+<br>
+1. How do gene editing tools and other nucleic acid-interacting proteins find their target sites? What determines their specificity? How gene editing affects cell health over several generations?
+<br>
+<br>
+2. Can we find new (and hopefully better) ways to perform gene-editing more safe
+<br>
+3. How can we improve gene-eting tools by looking at single molecules or single cells?
+<br>
+<br>
 
 <body align="justify">
 
 DNA-protein interaction occurs on a nanometer length scale at millisecond-to-second timescales. To monitor interactions occurring on the seconds time scale surface immobilization of one of interacting partners is often required. These interactions can be visualized at great detail through: force spectroscopy, fluorescence, Forster resonance energy transfer (FRET), atomic force microscopy (AFM), nanopores, DNA flow-stretch assays, etc [<a href="https://doi.org/10.3390/applnano3010002"><span style="color:blue">A. Kopūstas, et al. Applied Nano, 2022</span></a>]. In general, single-molecule FRET (smFRET) approach worked very well for many different protein-DNA interaction studies.
+
+<br>
+<br>
 
 Restriction endonucleases (REases) in bacteria and archaea function as defense against invading foreign DNA systems. Over the past 10 years we studied three different REases using smFRET approach: Ecl18kI protein [<a href="https://doi.org/10.1016/j.bpj.2017.01.017"><span style="color:blue">M. Tutkus, et al. Biophysical J. 2017</span></a>] , and NgoMIV [<a href="https://doi.org/10.1002/bip.23075"><span style="color:blue">M. Tutkus, et al. Biopolymers. 2017</span></a>]. Since both proteins recognize a palindromic DNA target sequence, DNA fragment in our DNA looping assay could adopt two type of loops (“U”- or “Phi”-shaped) depending on how each copy of protein was oriented on the target site (see figure below this paragraph). In our assay we monitored events of DNA looping that occurred after proteins’ binding onto target sites, and events of DNA loop release that occurred upon proteins dissociation from target sites.
 
