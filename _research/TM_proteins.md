@@ -1,6 +1,6 @@
 ---
 title: "Transmembrane protein studies"
-shortd: "add short description (MT)." 
+shortd: "The main goal of this work is to gain a better understanding of peripheral light-harvesting complexes' role in the non-photochemical quenching (NPQ) process under lipid environment. Also, to understand better how does the fluorescence intensity of these complexes are related with their conformational dynamcis. We use single-liposome level time-resolved fluorescence microcopy and LHCII reconstitution into lipid vesicles methods. Also, we are employing ensemble level time-resolved fluorescence temperature-dependence measurements of LHCII in native thylakoids, liposomes and detergent. These experiments allow us to compare role of LHCII in the NPQ process both under native and artificial lipid environment." 
 type: Transmembrane protein
 collection: research
 date: 2022-02-06
