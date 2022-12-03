@@ -30,8 +30,6 @@ Our research team works on developing and application of bionanotechnological pl
 
 <h2>Main topics</h2>
 
-<br>
-
 <body align="left">
 
 DNA-protein interaction occurs on a nanometer length scale at millisecond-to-second timescales. To monitor interactions occurring on the seconds time scale surface immobilization of one of interacting partners is often required. These interactions can be visualized at great detail through: force spectroscopy, fluorescence, Forster resonance energy transfer (FRET), atomic force microscopy (AFM), nanopores, DNA flow-stretch assays, etc [<a href="https://doi.org/10.3390/applnano3010002"><span style="color:blue">A. Kopūstas, et al. Applied Nano, 2022</span></a>]. In general, single-molecule FRET (smFRET) approach worked very well for many different protein-DNA interaction studies.
