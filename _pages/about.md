@@ -16,14 +16,18 @@ image_sliders:
 
 <body align="center">
 
-In our research team we develop and apply bionanotechnology and cutting-edge fluorescence microscopy techniques to understand life at the molecular scale. Using these techneques we are trying to answer these questions:
+Our research team works on developing and application of bionanotechnological platforms and cutting-edge fluorescence microscopy techniques to understand life at the molecular scale. Using these techneques we are trying to answer many interesting questions including these:
 <br>
 1. How do gene editing tools and other nucleic acid-interacting proteins find their target sites? What determines their specificity? How gene editing affects cell health over several generations?
 <br>
 <br>
-2. Can we find new (and hopefully better) ways to perform gene-editing more safe
+2. Can we find new (and hopefully better) ways to perform gene-editing more safe?
+<br>
 <br>
 3. How can we improve gene-eting tools by looking at single molecules or single cells?
+<br>
+<br>
+4. What are the mechanisms of energy transfer and energy transfer quenching (mainly NPQ) in photosynthesis? How lipid enviroment and antenna complex density affects NPQ process?
 <br>
 <br>
 
