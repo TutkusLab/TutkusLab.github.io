@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tutkus Lab"
+title                    : "About Tutkus Lab"
 title2                    : "Start page"
 title_separator          : "-"
 name                     : &name "Marijonas Tutkus' Lab"
