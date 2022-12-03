@@ -31,7 +31,6 @@ Our research team works on developing and application of bionanotechnological pl
 <h2>Main topics</h2>
 
 <br>
-<br>
 
 <body align="left">
 
@@ -45,8 +44,6 @@ Restriction endonucleases (REases) in bacteria and archaea function as defense a
 <img src='https://TutkusLab.github.io/images/dnaLoopingEcl.jpg' style='width: 75%'>
 </div>
 
-<br>
-
 <body align="left">
 Recently our team developed an alternative assay to the original DNA Curtains that we termed the <a href="https://pubs.acs.org/doi/full/10.1021/acs.langmuir.1c00066"><span style="color:blue">Oriented Soft DNA Curtains</span></a>. The main goal of our research is to apply the developed platform for studies of DNA targeting mechanisms of diverse CRISPR-Cas (Clustered regulatory interspaced short palindromic repeats) systems family, novel molecular-tools – prokaryotic Argonaute (pAgo) proteins, and various restriction endonucleases. Since 2017 for these studies we received two grants from the Lithuanian research council. Also, we received funding for a post-doc project dedicated for pAgo studies. 
 
@@ -57,7 +54,6 @@ The original DNA Curtains technique is still a little challenging (especially th
 <img src='https://TutkusLab.github.io/images/soft_dna_curtains.jpg' style='width: 75%'>
 </div>
 
-<br>
 <body align="left">
 With the help of this LRC funding and our recent grant from Vilnius University Science Fund (MSF-JM-10/2021) we started development of a home-made fluorescence microscopy dedicated for super-resolution studies. This project involves excitation (TIRF and MM-fiber output formation on the imaging plane), detection and autofocusing systems development and industrial-grade CMOS camera application for such studies. Recently our new set-up was cited <a href="https://www.nature.com/articles/s41592-021-01313-1?proof=t%29Nature"><span style="color:blue">Nature Methods</span></a>. Also, we are working on Phyton-based microscope control and single-molecule localization microscopy data analysis (SMLM) packages, and the full discription is available on our github page <a href="https://github.com/samhitech/microEye"><span style="color:blue">microEye</span></a>. The whole aforementioned hardware and software system was recently published as a fully open-source open-microscopy project that we entitled miEye <a href="https://www.hardware-x.com/article/S2468-0672(22)00113-4/fulltext"><span style="color:blue">HardwareX</span></a>.
 
