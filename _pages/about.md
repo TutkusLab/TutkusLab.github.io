@@ -14,7 +14,7 @@ image_sliders:
 
 <h2>About our research</h2>
 
-<body align="center">
+<body align="left">
 
 Our research team works on developing and application of bionanotechnological platforms and cutting-edge fluorescence microscopy techniques to understand life at the molecular scale. Using these techneques we are trying to answer many interesting questions including these:
 <br>
