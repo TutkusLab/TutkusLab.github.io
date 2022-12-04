@@ -12,7 +12,7 @@ layout: archive
 
 <div style="text-align: left">
 
-The miEye: Bench-top super-resolution microscope with cost-effective equipment. This project is dedicated for super-resolution studies of biomolecule structures and dynamics in vitro and in living cells (bacteria and eukaryotes). We based the project on the open-source miCube platform developed by Dr. Johannes Hohlbein. Our microscopy system performs dual-channel widefield, confocal and TIRF imaging. It leverages two types of excitation schemes: 1) single-mode (SM) fiber objective-based TIRF, and 2) multi-mode (MM) fiber output formation on the sample plane.<br>
+The miEye: Bench-top super-resolution microscope with cost-effective equipment. This project is dedicated for super-resolution studies of biomolecule structures and dynamics in vitro and in living cells (bacteria and eukaryotes). We based the project on the open-source miCube platform developed by Dr. Johannes Hohlbein (<a href="https://hohlbeinlab.github.io/miCube/index.html"><span style="color:blue">miCube</span></a>). Our microscopy system performs dual-channel widefield, confocal and TIRF imaging. It leverages two types of excitation schemes: 1) single-mode (SM) fiber objective-based TIRF, and 2) multi-mode (MM) fiber output formation on the sample plane.<br>
 
 <br>
 
@@ -23,8 +23,6 @@ The TIRF system is well suited to imaging molecules near the coverslip surface (
 In our system, we employ inexpensive but highly capable CMOS cameras. We pair high-frame-rate industrial-grade CMOS cameras with homemade cooling, simultaneous dual channel imaging, and illumination via a diode laser combiner (405, 488, 520, 638 nm) to maximize their utility. Similar commercial equipment would cost > 150 thousand Euro, while our system price is approximately 50 thousand Euro. These attractive solutions required us to develop Python-based microscope control, data acquisition and data analysis packages. Our microEye Python package controls hardware components and performs piezo-tracked autofocus to counter sample drift in the Z-axis. It also performs data processing, such as filtering of acquired images, cropping, Fourier ring correlation (FRC) to estimate systems resolution, thresholding, blob detection and similar. Based on recent discussions and citations (in Nature Methods), we believe that open-microscopy and open-source Python-based data analysis interests and can benefit the wider scientific community. Our work will help bring the latest microscopy technology to more laboratories, including those with limited capital, so that their research is limited by their imaginations rather than their access.
 
 <br>
-
-
 
 <figure style="width: 80%" class="align-center">
 <img src='/images/open_microscopy_image_MT.jpg'>
