@@ -1,0 +1,16 @@
+---
+title: "Fixed DNA Molecule Arrays for High-Throughput Single DNA–Protein Interaction Studies"
+collection: publications
+date: 2019-04-30
+venue: 'Langmuir'
+authors: 'Marijonas Tutkus, Tomas Rakickas, Aurimas Kopu̅stas, Šaru̅nė Ivanovaitė, Oskaras Venckus, Vytautas Navikas, Mindaugas Zaremba, Elena Manakova, and Ramu̅nas Valiokas'
+paperurl: https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.8b03424
+tagline: '- Research paper, first author'
+doi: 10.1021/acs.langmuir.8b03424
+type: DNA_protein
+---
+
+<h2> Abstract </h2>
+<p align= "justify">
+The DNA Curtains assay is a recently developed experimental platform for protein–DNA interaction studies at the single-molecule level that is based on anchoring and alignment of DNA fragments. The DNA Curtains so far have been made by using chromium barriers and fluid lipid bilayer membranes, which makes such a specialized assay technically challenging and relatively unstable. Herein, we report on an alternative strategy for DNA arraying for analysis of individual DNA–protein interactions. It relies on stable DNA tethering onto nanopatterned protein templates via high affinity molecular recognition. We describe fabrication of streptavidin templates (line features as narrow as 200 nm) onto modified glass coverslips by combining surface chemistry, atomic force microscopy (AFM), and soft lithography techniques with affinity-driven assembly. We have employed such chips for arraying single- and double-tethered DNA strands, and we characterized the obtained molecular architecture: we evaluated the structural characteristics and specific versus nonspecific binding of fluorescence-labeled DNA using AFM and total internal reflection fluorescence microscopy. We demonstrate the feasibility of our DNA molecule arrays for short single-tethered as well as for lambda single- and double-tethered DNA. The latter type of arrays proved very suitable for localization of single DNA–protein interactions employing restriction endonucleases. The presented molecular architecture and facile method of fabrication of our nanoscale platform does not require clean room equipment, and it offers advanced functional studies of DNA machineries and the development of future nanodevices.
+
