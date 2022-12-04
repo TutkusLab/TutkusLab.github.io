@@ -1,6 +1,6 @@
 ---
 title: "Open microscopy"
-shortd: "Single-molecule localization microscopy (SMLM) helped to reveal nanoscale molecular structures and their dynamics. However, it requires state-of-the-art scientific-grade equipment. We developed fully open-source cost-effective super-resolution microscope solution (approx. 50K Euro) that can perform dual-channel widefield, confocal and TIRF imaging. It showed very low sample drift and allowed us to achieve ground-truth resolution of ~ 16 nm for DNA PAINT and ~ 26 nm for dSTORM. This project is standing on a base of miCube microscope (approx. 110K Euro). " 
+shortd: "Single-molecule localization microscopy (SMLM) helped to reveal nanoscale molecular structures and their dynamics. However, it requires state-of-the-art scientific-grade equipment. We developed fully open-source cost-effective super-resolution microscope solution (approx. 50K Euro) that can perform dual-channel widefield, confocal and TIRF imaging. This project includes also robustly working dedicated open-source Python package for microscopes' hardware control, data acquisition, and analysis. It showed very low sample drift and allowed us to achieve ground-truth resolution of ~ 16 nm for DNA PAINT and ~ 26 nm for dSTORM. This project is standing on a base of miCube microscope (approx. 110K Euro). " 
 type: open_microscopy
 collection: research
 date: 2022-02-06
