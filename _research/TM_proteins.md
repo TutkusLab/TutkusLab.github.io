@@ -64,14 +64,5 @@ e) find differences, if existing, between antenna complexes quenching under nati
 We have applied similar methods for studies of other transmembrane or membrane-related proteins [<a href="https://pubs.acs.org/doi/abs/10.1021/cb400708v"><span style="color:blue">T. Laursen, et al. ACS Chem. Biol., 2014</span></a>], [<a href="https://pubs.acs.org/doi/full/10.1021/jacs.5b08798"><span style="color:blue">M. Li, et al. J. Am. Chem. Soc., 2015</span></a>]. And we continue on working with these assays.
 <br>
 
-
-</div>
-<br>
-
-<!---| Resourse | Description | Link |
-| --- | --- | --- |
-| Twitter | #singlephotonmicroscope (hashtag on twitter) | <a href="https://twitter.com/hashtag/singlephotonmicroscopy?src=hashtag_click"><span style="color:blue">here</span></a> |--->
-
 {% include theme-team-members.html %}
 {% include publication-list-theme.html %}
-

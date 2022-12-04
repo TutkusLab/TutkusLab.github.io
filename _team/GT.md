@@ -7,7 +7,7 @@ header:
 tags: undergraduate
 tagline: BSc. Student - Vilnius University
 date: 2022-10-01
-theme: "DNA_protein,open-microscopy"
+theme: "DNA_protein; open-microscopy"
 supervisors: "Dr. Marijonas Tutkus"
 ---
 
