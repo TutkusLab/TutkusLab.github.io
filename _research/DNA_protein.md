@@ -47,7 +47,7 @@ The main goal of our research is to apply the developed platform for studies of 
 
 <br>
 
-<a href="https://www.wavemetrics.com/project/TEA_MT"><span style="color:blue">our developed Igor Pro software for fluorescent spot intensity extraction and analysis</span></a> |
+<a href="https://www.wavemetrics.com/project/TEA_MT"><span style="color:blue">our developed Igor Pro software for fluorescent spot intensity extraction and analysis</span></a>
 
 {% include theme-team-members.html %}
 {% include publication-list-theme.html %}
