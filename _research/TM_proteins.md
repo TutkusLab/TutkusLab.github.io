@@ -35,8 +35,6 @@ We perform studies of surface-tethered antenna complexes in detergent micelles, 
 
 <br>
 
-
-
 We reconstitute transmembrane proteins (the same applies for membrane-related proteins) in lipid vesicles (small unilamellar vesicles - SUV) supplemented with hydrophobic membrane stain and biotinylated lipids. Next, we immobilize the proteo-liposomes sample on the PEGylated glass coverslips via streptavidin or similar protein. Membrane dye allow us to perform co-localization between antenna complexes (635 nm excitation) and membrane (532 nm excitation) fluorescence channels. This co-localization strategy helps to discriminate between SUV-reconstituted and SUV-free antenna complexes bound to surface. Also, membrane dye fluorescence intensity allows intensity-based characterization of vesicle size, which is an interesting parameter for antenna complex quenching characterization (e.g. whether LHCII in smaller lipid area are more quenched).
 
 <figure style="width: 50%" class="align-center">
@@ -50,6 +48,7 @@ We reconstitute transmembrane proteins (the same applies for membrane-related pr
 
 To compare role of antenna complexes in the non-photochemical quenching process both under native and artificial lipid environment we perform ensemble level time-resolved fluorescence temperature-dependence measurements of antenna complexes in native thylakoids. We use streak-camera and kryostat for these measurements. The streak-camera reveal wavelength-dependency of LHCII fluorescence lifetime. At the same time, sample is mounted on the kryostat, which enables cooling of the sample to 15 K temperature.
 
+<br>
 <br>
 
 These experiments help us to answer the following questions:<br>
