@@ -11,7 +11,7 @@ layout: archive
 ---
 
 <div style="text-align: justify">
-We developed of a home-made fluorescence microscopy dedicated for single-molecule localization super-resolution microscopy studies. This project TIRF system development and industrial-grade CMOS camera application for such studies. Recently our new set-up was cited (<a href="https://www.nature.com/articles/s41592-021-01313-1?proof=t%29Nature"><span style="color:blue">Nature Methods</span></a>). Also, we are working on Phyton-based microscope control and single-molecule localization microscopy data analysis (SMLM) packages. This project is entitled (<a href="https://github.com/samhitech/microEye"><span style="color:blue">micro Eye</span></a>).
+We developed the miEye: Bench-top super-resolution microscope with cost-effective equipment. This project TIRF system development and industrial-grade CMOS camera application for such studies. Recently our new set-up was cited (<a href="https://www.nature.com/articles/s41592-021-01313-1?proof=t%29Nature"><span style="color:blue">Nature Methods</span></a>). Also, we are working on Phyton-based microscope control and single-molecule localization microscopy data analysis (SMLM) packages. This project is entitled (<a href="https://github.com/samhitech/microEye"><span style="color:blue">micro Eye</span></a>).
 
 <br>
 
