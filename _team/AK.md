@@ -7,7 +7,7 @@ header:
 tags: phd
 tagline: Ph.D. Student - Vilnius University
 date: 2017-12-01
-theme: "DNA_protein, open_microscopy, TM_protein"
+theme: "DNA_protein, open_microscopy, TM_proteins"
 supervisors: "Dr. Mindaugas Zaremba and Dr. Marijonas Tutkus"
 ---
 

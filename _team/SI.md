@@ -7,7 +7,7 @@ header:
 tags: alumni
 tagline: MSc. Neurobiophyics degree - Vilnius University
 date: 2017-07-01
-theme: "DNA_protein, TM_protein"
+theme: "DNA_protein, TM_proteins"
 supervisors: "Dr. Marijonas Tutkus"
 ---
 

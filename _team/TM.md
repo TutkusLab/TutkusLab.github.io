@@ -7,7 +7,7 @@ header:
 tags: alumni
 tagline: BSc. Physics degree - Vilnius University
 date: 2015-07-01
-theme: "TM_protein"
+theme: "TM_proteins"
 supervisors: "Dr. Marijonas Tutkus"
 ---
 

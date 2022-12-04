@@ -21,14 +21,14 @@ We perform studies of surface-tethered antenna complexes in detergent micelles, 
 
 <br>
 
-<figure style="width: 50%" class="align-center">
+<figure style="width: 90%" class="align-center">
 <img src='/images/LHCII_TIRF.png'>
 <figcaption>Surface tethered antenna complexes in detergent micelles and their fluorescence intensity measuments at the single-molecule level.</figcaption>
 </figure>
 
 <br>
 
-<figure style="width: 80%" class="align-center">
+<figure style="width: 90%" class="align-center">
 <img src='/images/LHCII_FLIM.jpg'>
 <figcaption>Antenna complexes in surface tethered small unilamelar vesicles and their fluorescence life-time measuments at the single-liposome level.</figcaption>
 </figure>
@@ -37,7 +37,7 @@ We perform studies of surface-tethered antenna complexes in detergent micelles, 
 
 We reconstitute transmembrane proteins (the same applies for membrane-related proteins) in lipid vesicles (small unilamellar vesicles - SUV) supplemented with hydrophobic membrane stain and biotinylated lipids. Next, we immobilize the proteo-liposomes sample on the PEGylated glass coverslips via streptavidin or similar protein. Membrane dye allow us to perform co-localization between antenna complexes (635 nm excitation) and membrane (532 nm excitation) fluorescence channels. This co-localization strategy helps to discriminate between SUV-reconstituted and SUV-free antenna complexes bound to surface. Also, membrane dye fluorescence intensity allows intensity-based characterization of vesicle size, which is an interesting parameter for antenna complex quenching characterization (e.g. whether LHCII in smaller lipid area are more quenched).
 
-<figure style="width: 80%" class="align-center">
+<figure style="width: 50%" class="align-center">
 <img src='/images/transmembraneProteins.jpg'>
 <figcaption>Antenna complexes in surface tethered small unilamelar vesicles (top) and detergent micelles (botttom)</figcaption>
 </figure>
@@ -71,11 +71,6 @@ We have applied similar methods for studies of other transmembrane or membrane-r
 <!---| Resourse | Description | Link |
 | --- | --- | --- |
 | Twitter | #singlephotonmicroscope (hashtag on twitter) | <a href="https://twitter.com/hashtag/singlephotonmicroscopy?src=hashtag_click"><span style="color:blue">here</span></a> |--->
-
-<!---<h2> Videos: </h2>
-<video width="480" height="320" controls="controls" class="align-center">
-<source src="/videos/VicidominiG_SIF_2020_max_compression.mp4" type="video/mp4">
-</video>--->
 
 {% include theme-team-members.html %}
 {% include publication-list-theme.html %}
