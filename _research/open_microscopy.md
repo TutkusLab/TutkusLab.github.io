@@ -10,12 +10,23 @@ header:
 layout: archive
 ---
 
-<div style="text-align: justify">
-We developed the miEye: Bench-top super-resolution microscope with cost-effective equipment. This project TIRF system development and industrial-grade CMOS camera application for such studies. Recently our new set-up was cited (<a href="https://www.nature.com/articles/s41592-021-01313-1?proof=t%29Nature"><span style="color:blue">Nature Methods</span></a>). Also, we are working on Phyton-based microscope control and single-molecule localization microscopy data analysis (SMLM) packages. This project is entitled (<a href="https://github.com/samhitech/microEye"><span style="color:blue">micro Eye</span></a>).
+<div style="text-align: left">
+
+The miEye: Bench-top super-resolution microscope with cost-effective equipment. This project is dedicated for super-resolution studies of biomolecule structures and dynamics in vitro and in living cells (bacteria and eukaryotes). We based the project on the open-source miCube platform developed by Dr. Johannes Hohlbein. Our microscopy system performs dual-channel widefield, confocal and TIRF imaging. It leverages two types of excitation schemes: 1) single-mode (SM) fiber objective-based TIRF, and 2) multi-mode (MM) fiber output formation on the sample plane.<br>
 
 <br>
 
-<figure style="width: 60%" class="align-center">
+The TIRF system is well suited to imaging molecules near the coverslip surface (like those in cell membranes or those bound to surface-immobilised DNA molecules) in the presence of a fluorescent background from other fluorescent molecules diffusing in solution. The TIRF system increases sensitivity and lowers noise by reducing background signal from fluorescently labelled molecules in solution. The MM fiber output formation on the sample plane combined with a home-made speckle-reducer reduces the risk of objective damage (in contrast to TIRF laser beam here is not focused on the back focal plane of the objective) and decreases laser power loss to create a homogeneous flat illumination profile. Both excitation schemes work well for STORM- and PALM-type super-resolution imaging, whether in vitro, in cells (living or fixed) or while tracking fluorescently labelled biomolecules as they diffuse inside living cells.<br>
+
+<br>
+
+In our system, we employ inexpensive but highly capable CMOS cameras. We pair high-frame-rate industrial-grade CMOS cameras with homemade cooling, simultaneous dual channel imaging, and illumination via a diode laser combiner (405, 488, 520, 638 nm) to maximize their utility. Similar commercial equipment would cost > 150 thousand Euro, while our system price is approximately 50 thousand Euro. These attractive solutions required us to develop Python-based microscope control, data acquisition and data analysis packages. Our microEye Python package controls hardware components and performs piezo-tracked autofocus to counter sample drift in the Z-axis. It also performs data processing, such as filtering of acquired images, cropping, Fourier ring correlation (FRC) to estimate systems resolution, thresholding, blob detection and similar. Based on recent discussions and citations (in Nature Methods), we believe that open-microscopy and open-source Python-based data analysis interests and can benefit the wider scientific community. Our work will help bring the latest microscopy technology to more laboratories, including those with limited capital, so that their research is limited by their imaginations rather than their access.
+
+<br>
+
+
+
+<figure style="width: 80%" class="align-center">
 <img src='/images/open_microscopy_image_MT.gif'>
 <figcaption>miEye system.</figcaption>
 </figure>
