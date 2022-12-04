@@ -27,7 +27,7 @@ In our system, we employ inexpensive but highly capable CMOS cameras. We pair hi
 
 
 <figure style="width: 80%" class="align-center">
-<img src='/images/open_microscopy_image_MT.gif'>
+<img src='/images/open_microscopy_image_MT.jpg'>
 <figcaption>miEye system.</figcaption>
 </figure>
 
