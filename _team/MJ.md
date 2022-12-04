@@ -7,7 +7,7 @@ header:
 tags: postgraduate
 tagline: MSc. Student - Vilnius University
 date: 2021-04-01
-theme: "TM_proteins; DNA_protein"
+theme: "TM_proteins; DNA_protein; open_microscopy;"
 supervisors: "Dr. Marijonas Tutkus"
 ---
 
