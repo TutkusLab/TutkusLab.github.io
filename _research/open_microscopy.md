@@ -33,7 +33,13 @@ In our system, we employ inexpensive but highly capable CMOS cameras. We pair hi
 
 <br>
 
-<a href="https://github.com/samhitech/microEye"><span style="color:blue">microEye Python package</span></a> |
+<a href="https://github.com/samhitech/microEye"><span style="color:blue">Here you can find our gitHub repository for the microEye Python package</span></a>
+
+<br>
+
+<a href="https://osf.io/j2fqy/"><span style="color:blue">Here you can find our OSF repository for the miEye hardware and software package</span></a>
+
+<br>
 
 {% include theme-team-members.html %}
 {% include publication-list-theme.html %}

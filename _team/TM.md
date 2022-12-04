@@ -15,6 +15,5 @@ supervisors: "Dr. Marijonas Tutkus"
 Tomas joined our team during his bachelor studies and worked on DNA-protein interaction studies using smFRET. He worked in our team from 2015 summer till 2016 autumn.
 
 
-<!---{% include author-research-themes.html %}--->
-<!---{% include team-member-collaborators.html %}--->
-<!---{% include publication-list.html %}--->
+{% include author-research-themes.html %}
+{% include publication-list.html %}
