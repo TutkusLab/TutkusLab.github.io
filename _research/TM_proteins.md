@@ -20,7 +20,22 @@ Photosynthetic conversion of the energy of sunlight into its chemical form suita
 We perform studies of surface-tethered antenna complexes in detergent micelles, lipid vesicles or native chloroplasts. To sudy conformational dynamics (fluorescence intensity variation over time) we utilize single-molecule TIRF microscopy [<a href="https://www.sciencedirect.com/science/article/pii/S0005272819300428"><span style="color:blue">M. Tutkus, et al. BBA - Bioenergetics, 2019</span></a>], [<a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.7b02634"><span style="color:blue">M. Tutkus, et al. J. Phys. Chem. Lett., 2017</span></a>]. To study quenching of fluorescence we also add the time-resolved equipment to our measurment set-up and then perform measuremtns in confocal mode [<a href="https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.8b02307"><span style="color:blue">M. Tutkus, et al. Langmuir, 2018</span></a>], [<a href="https://www.sciencedirect.com/science/article/abs/pii/S101113442100052X"><span style="color:blue">M. Tutkus, et al. J. of Photochemistry and Photobiology B: Biology, 2021</span></a>]. This equipment is available at our department (Molecular Compounds Physics Department at the Center for Physical Sciences and technology) and it is based on a home-built fluorescence microscope set-up. This set-up has several constant-wave lasers, a pulsed red laser, dual-view and EMCCD camera, two avalanche photo-detectors and the time-correlated single photon counting card. This microscope also has an automated focus drift correction function, which enables long-lasting stable signal registration.
 
 <br>
+
+<figure style="width: 50%" class="align-center">
+<img src='/images/LHCII_TIRF.png'>
+<figcaption>Surface tethered antenna complexes in detergent micelles and their fluorescence intensity measuments at the single-molecule level.</figcaption>
+</figure>
+
 <br>
+
+<figure style="width: 50%" class="align-center">
+<img src='/images/LHCII_FLIM.jpg'>
+<figcaption>Antenna complexes in surface tethered small unilamelar vesicles and their fluorescence life-time measuments at the single-liposome level.</figcaption>
+</figure>
+
+<br>
+
+
 
 We reconstitute transmembrane proteins (the same applies for membrane-related proteins) in lipid vesicles (small unilamellar vesicles - SUV) supplemented with hydrophobic membrane stain and biotinylated lipids. Next, we immobilize the proteo-liposomes sample on the PEGylated glass coverslips via streptavidin or similar protein. Membrane dye allow us to perform co-localization between antenna complexes (635 nm excitation) and membrane (532 nm excitation) fluorescence channels. This co-localization strategy helps to discriminate between SUV-reconstituted and SUV-free antenna complexes bound to surface. Also, membrane dye fluorescence intensity allows intensity-based characterization of vesicle size, which is an interesting parameter for antenna complex quenching characterization (e.g. whether LHCII in smaller lipid area are more quenched).
 
@@ -28,6 +43,8 @@ We reconstitute transmembrane proteins (the same applies for membrane-related pr
 <img src='/images/transmembraneProteins.jpg'>
 <figcaption>Antenna complexes in surface tethered small unilamelar vesicles (top) and detergent micelles (botttom)</figcaption>
 </figure>
+
+
 
 <br>
 
