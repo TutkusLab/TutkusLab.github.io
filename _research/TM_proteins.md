@@ -26,17 +26,12 @@ We reconstitute transmembrane proteins (the same applies for membrane-related pr
 
 <figure style="width: 50%" class="align-center">
 <img src='/images/transmembraneProteins.jpg'>
-<figcaption>Antenna complexes in surface tethered small unilamelar vesicles.</figcaption>
+<figcaption>Antenna complexes in surface tethered small unilamelar vesicles (top) and detergent micelles (botttom)</figcaption>
 </figure>
 
 <br>
 
 To compare role of antenna complexes in the non-photochemical quenching process both under native and artificial lipid environment we perform ensemble level time-resolved fluorescence temperature-dependence measurements of antenna complexes in native thylakoids. We use streak-camera and kryostat for these measurements. The streak-camera reveal wavelength-dependency of LHCII fluorescence lifetime. At the same time, sample is mounted on the kryostat, which enables cooling of the sample to 15 K temperature.
-
-<figure style="width: 50%" class="align-center">
-<img src='/images/transmembraneProteins.jpg'>
-<figcaption>Antenna complexes in surface tethered small unilamelar vesicles (top) and detergent micelles (botttom).</figcaption>
-</figure>
 
 <br>
 
