@@ -35,11 +35,11 @@ To compare role of antenna complexes in the non-photochemical quenching process 
 
 <br>
 
-These experiments help us to answer the following questions:
-a) discriminate vesicle-free/vesicle-reconstituted antenna complexes and estimate antenna complexes reconstitution efficiency.
-b) find, if existing, fluorescence kinetics differences between vesicle-reconstituted (aggregates in vesicle membrane) and vesicle-free (aggregates bound to surface) antenna complexes.
-c) whether different antenna complexes vesicles (different number of antenna complexes per similar area vesicle or similar antenna complexes number per different vesicle area) has influence on the antenna complexes fluorescence kinetics.
-d) whether vesicle size alone (despite number of antenna complexes per vesicle) has an influence on antenna complexes fluorescence kinetics.
+These experiments help us to answer the following questions:<br>
+a) discriminate vesicle-free/vesicle-reconstituted antenna complexes and estimate antenna complexes reconstitution efficiency.<br>
+b) find, if existing, fluorescence kinetics differences between vesicle-reconstituted (aggregates in vesicle membrane) and vesicle-free (aggregates bound to surface) antenna complexes.<br>
+c) whether different antenna complexes vesicles (different number of antenna complexes per similar area vesicle or similar antenna complexes number per different vesicle area) has influence on the antenna complexes fluorescence kinetics.<br>
+d) whether vesicle size alone (despite number of antenna complexes per vesicle) has an influence on antenna complexes fluorescence kinetics.<br>
 e) find differences, if existing, between antenna complexes quenching under native and artificial lipid environment.
 
 <br>
