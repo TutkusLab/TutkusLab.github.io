@@ -1,7 +1,7 @@
 ---
 title: "Light-harvesting complexes and Transmembrane protein studies"
 shortd: "We aim to gain a better understanding of peripheral light-harvesting complexes' role in the non-photochemical quenching (NPQ) process. Also, we aim to understand better how the fluorescence intensity of these complexes is related with their conformational dynamcis. For these studies we employ single-molecule level fluorescenece microsocpy of detergent micelle solubilized complexes, single-liposome level fluorescence microscopy of antenna complexes' reconstited in lipid vesicles. These experiments allow us to compare role of antenna complexes' in the NPQ process both under native and artificial lipid environment. We apply similar methods (liposome reconstitution, in situ liposome size determination, single-molecule or single-liposome level fluorescnece microscopy and various bulk spectroscopy methods) for studies of other transmembrane or membrane related proteins." 
-type: Transmembrane protein
+type: TM_proteins
 collection: research
 date: 2022-02-06
 author_profile: true
