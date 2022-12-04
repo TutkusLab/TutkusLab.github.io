@@ -43,11 +43,7 @@ The main goal of our research is to apply the developed platform for studies of 
 <img src='https://TutkusLab.github.io/images/soft_dna_curtains.jpg' style='width: 75%'>
 </div>
 
-<br>
-<br>
 
-Intro paragraph3.
-</div>
 
 <br>
 
