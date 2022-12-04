@@ -35,7 +35,7 @@ To compare role of antenna complexes in the non-photochemical quenching process 
 
 <figure style="width: 50%" class="align-center">
 <img src='/images/transmembraneProteins.jpg'>
-<figcaption>Antenna complexes in surface tethered small unilamelar vesicles.</figcaption>
+<figcaption>Antenna complexes in surface tethered small unilamelar vesicles (top) and detergent micelles (botttom).</figcaption>
 </figure>
 
 <br>
