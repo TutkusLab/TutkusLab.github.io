@@ -7,7 +7,7 @@ authors: 'Šarūnė Ivanovaitė, Justė Paksaitė, Aurimas Kopūstas, Giedrė Ka
 paperurl: https://www.biorxiv.org/content/10.1101/2023.03.31.535070v1.abstract
 tagline: '- Preprint, Corresponding author'
 doi: 10.1101/2023.03.31.535070
-type: 'smFRET, Restriction endonuclease'
+type: DNA_protein
 ---
 
 <h2> Abstract </h2>
