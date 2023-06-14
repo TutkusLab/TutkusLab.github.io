@@ -1,0 +1,16 @@
+---
+title: "Probing the dynamics of restriction endonuclease NgoMIV-DNA interaction by single-molecule FRET"
+collection: publications
+date: 2017-10-27
+venue: 'Biopolymers'
+authors: 'Marijonas Tutkus, Giedrius Sasnauskas, Danielis Rutkauskas'
+paperurl: https://onlinelibrary.wiley.com/doi/full/10.1002/bip.23075
+tagline: '- Research paper, first author'
+doi: 10.1002/bip.23075
+type: DNA_protein
+---
+
+<h2> Abstract </h2>
+<p align= "justify">
+Many type II restriction endonucleases require two copies of their recognition sequence for optimal activity. Concomitant binding of two DNA sites by such an enzyme produces a DNA loop. Here we exploit single-molecule Förster resonance energy transfer (smFRET) of surface-immobilized DNA fragments to study the dynamics of DNA looping induced by tetrameric endonuclease NgoMIV. We have employed a DNA fragment with two NgoMIV recognition sites and a FRET dye pair such that upon protein-induced DNA looping the dyes are brought to close proximity resulting in a FRET signal. The dynamics of DNA-NgoMIV interactions proved to be heterogeneous, with individual smFRET trajectories exhibiting broadly different average looped state durations. Distinct types of the dynamics were attributed to different types of DNA-protein complexes, mediated either by one NgoMIV tetramer simultaneously bound to two specific sites (“slow” trajectories) or by semi-specific interactions of two DNA-bound NgoMIV tetramers (“fast” trajectories), as well as to conformational heterogeneity of individual NgoMIV molecules.
+

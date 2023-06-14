@@ -1,0 +1,16 @@
+---
+title: "DNA-Endonuclease Complex Dynamics by Simultaneous FRET and Fluorophore Intensity in Evanescent Field"
+collection: publications
+date: 2017-03-14
+venue: 'Biophysical Journal'
+authors: 'Marijonas Tutkus, Tomas Marciulionis, Giedrius Sasnauskas, Danielis Rutkauskas'
+paperurl: https://www.sciencedirect.com/science/article/pii/S0006349517301121
+tagline: '- Research paper, first author'
+doi: 10.1016/j.bpj.2017.01.017
+type: DNA_protein
+---
+
+<h2> Abstract </h2>
+<p align= "justify">
+The single-molecule Förster resonance energy transfer (FRET) is a powerful tool to study interactions and conformational changes of biological molecules in the distance range from a few to 10 nm. In this study, we demonstrate a method to augment this range with longer distances. The method is based on the intensity changes of a tethered fluorophore, diffusing in the exponentially decaying evanescent excitation field. In combination with FRET it allowed us to reveal and characterize the dynamics of what had been inaccessible conformations of the DNA-protein complex. Our model system, restriction enzyme Ecl18kI, interacts with a FRET pair-labeled DNA fragment to form two different DNA loop conformations. The DNA-protein interaction geometry is such that the efficient FRET is expected for one of these conformations—“antiparallel” loop. In the alternative “parallel” loop, the expected distance between the dyes is outside the range accessible by FRET. Therefore, “antiparallel” looping is observed in a single-molecule time trajectory as discrete transitions to a state of high FRET efficiency. At the same time, transitions to a high-intensity state of the directly excited acceptor fluorophore on a DNA tether are due to a change of its average position in the evanescent field of excitation and can be associated with a loop of either “parallel” or “antiparallel” configuration. Simultaneous analysis of FRET and acceptor intensity trajectories then allows us to discriminate different DNA loop conformations and access the average lifetimes of different states.
+
