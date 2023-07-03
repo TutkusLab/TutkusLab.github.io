@@ -63,9 +63,6 @@ With the help of this LRC funding and our recent grant from Vilnius University S
 <body align="left">
 With the help of my recent VU LSC-EMBL Partner Institute Associated Research Fellowship we started studies of chromosomal rearrangements in gene-edited living yeast cells using super-resolution microscopy and fluidics devices in real time. In this project we employ CRISPR-Cas effector proteins - Cas9 (blunt cut) or Cas12a (sticky-end cut) - to introduce DNA double-stranded breaks (DSBs) at different chromosomal locations in the genome of living fission yeast cells. We select targets based on factors including their chromosomal location, 3-D position in the nucleus, and their epigenetic state. Fission yeast cells have similar genome repair, architecture and regulation to humans, but with smaller genomes and single-cell tractability. Cells loaded into individually-addressable positions within  the fluidics device, allows for their long-lasting imaging. We track DSBs introduction upon induction of Cas protein expression using existing SR-compatible markers (<a href="https://www.tandfonline.com/doi/full/10.1128/MCB.01400-12"><span style="color:blue">FROS array</span></a>) and also develop new ways of labeling specfic genome locus with high singal-to-background ratio. Movement of markers reflects chromosome rearrangement that we can track using SR microscopy.  For these studies we employ our developed miEye hardware and software system <a href="https://www.hardware-x.com/article/S2468-0672(22)00113-4/fulltext"><span style="color:blue">HardwareX</span></a>.
 
-<div style="text-align: center">
-<img src='https://TutkusLab.github.io/images/open_microscopy_image_MT.jpg' style='width: 75%'>
-</div>
 
 <body align="justify"> 
 <h2>The Laboratory</h2>
