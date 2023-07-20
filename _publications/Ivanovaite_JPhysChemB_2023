@@ -1,0 +1,15 @@
+---
+title: "smFRET Detection of Cis and Trans DNA Interactions by the BfiI Restriction Endonuclease"
+collection: publications
+date: 2021-03-23
+venue: 'J. Phys. Chem. B'
+authors: 'Šaru̅nė Ivanovaitė, Justė Paksaitė, Aurimas Kopu̅stas, Giedrė Karzaitė, Danielis Rutkauskas, Arunas Silanskas, Giedrius Sasnauskas, Mindaugas Zaremba, Stephen K. Jones Jr., and Marijonas Tutkus'
+paperurl: https://pubs.acs.org/doi/10.1021/acs.langmuir.1c00066
+tagline: '- Research paper, Corresponding author'
+doi: 10.1021/acs.jpcb.3c03269
+type: DNA_protein
+---
+
+<h2> Abstract </h2>
+<p align= "justify">
+Protein–DNA interactions are fundamental to many biological processes. Proteins must find their target site on a DNA molecule to perform their function, and mechanisms for target search differ across proteins. Especially challenging phenomena to monitor and understand are transient binding events that occur across two DNA target sites, whether occurring in cis or trans. Type IIS restriction endonucleases rely on such interactions. They play a crucial role in safeguarding bacteria against foreign DNA, including viral genetic material. BfiI, a type IIS restriction endonuclease, acts upon a specific asymmetric sequence, 5-ACTGGG-3, and precisely cuts both upper and lower DNA strands at fixed locations downstream of this sequence. Here, we present two single-molecule Förster resonance energy-transfer-based assays to study such interactions in a BfiI–DNA system. The first assay focuses on DNA looping, detecting both “Phi”- and “U”-shaped DNA looping events. The second assay only allows in trans BfiI–target DNA interactions, improving the specificity and reducing the limits on observation time. With total internal reflection fluorescence microscopy, we directly observe on- and off-target binding events and characterize BfiI binding events. Our results show that BfiI binds longer to target sites and that BfiI rarely changes conformations during binding. This newly developed assay could be employed for other DNA-interacting proteins that bind two targets and for the dsDNA substrate BfiI-PAINT, a useful strategy for DNA stretch assays and other super-resolution fluorescence microscopy studies.
