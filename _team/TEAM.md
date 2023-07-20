@@ -14,7 +14,7 @@ supervisors: "Dr. Marijonas Tutkus"
 <h2>About TEAM</h2>
 MT team at the 2022 annual department trip to Puvociai.
 
-<!---{% include author-research-themes.html %}--->
-<!---{% include team-member-collaborators.html %}--->
-<!---{% include publication-list.html %}--->
+{% include author-research-themes.html %}
+{% include team-member-collaborators.html %}
+{% include publication-list.html %}
 

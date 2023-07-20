@@ -15,6 +15,6 @@ supervisors: "Dr. Marijonas Tutkus"
 Ignas joined our team during his bachelor studies and worked on light-harvesting antenna proteins from plants. He worked in our team from 2017 summer till 2018 autumn.
 
 
-<!---{% include author-research-themes.html %}--->
-<!---{% include team-member-collaborators.html %}--->
-<!---{% include publication-list.html %}--->
+{% include author-research-themes.html %}
+{% include team-member-collaborators.html %}
+{% include publication-list.html %}

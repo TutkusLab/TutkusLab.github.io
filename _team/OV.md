@@ -15,6 +15,6 @@ supervisors: "Dr. Marijonas Tutkus"
 Oskaras joined our team during his bachelor studies and worked on DNA Curtains and light-harvesting antenna proteins from plants. He worked in our team from 2017 summer till 2019 spring.
 
 
-<!---{% include author-research-themes.html %}--->
-<!---{% include team-member-collaborators.html %}--->
-<!---{% include publication-list.html %}--->
+{% include author-research-themes.html %}
+{% include team-member-collaborators.html %}
+{% include publication-list.html %}
