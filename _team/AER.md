@@ -4,7 +4,7 @@ authorname: "Aina El Ravvas"
 collection: team
 header:
   teaser: AER.png
-tags: graduate
+tags: undergraduate
 tagline: BSc. Student - Vilnius University
 date: 2022-10-01
 theme: "DNA_protein; open-microscopy"
