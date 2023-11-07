@@ -14,6 +14,7 @@ supervisors: "Dr. Marijonas Tutkus"
 <h2>About Aina</h2>
 Aina joined our research team on 2023 summer. 
 She is BSc student in Neuro-biophysics study programme at Vilnius University.
+Aina is working with DNA-protein interaction studies at the single-molecule level and developing platforms for such a studies.
 
 
 {% include author-research-themes.html %}
