@@ -3,7 +3,7 @@ title: "Aina El Ravvas"
 authorname: "Aina El Ravvas"
 collection: team
 header:
-  teaser: AER.png
+  teaser: AER.jpg
 tags: undergraduate
 tagline: BSc. Student - Vilnius University
 date: 2022-10-01
