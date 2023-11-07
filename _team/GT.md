@@ -16,5 +16,4 @@ Guoda joined our research team for a few months practice on 2022.
 
 
 {% include author-research-themes.html %}
-{% include team-member-collaborators.html %}
 {% include publication-list.html %}

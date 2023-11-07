@@ -16,5 +16,4 @@ Meda joined our team during her bachelor studies, obtained BSc. degree in Molecu
 
 
 {% include author-research-themes.html %}
-{% include team-member-collaborators.html %}
 {% include publication-list.html %}

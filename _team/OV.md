@@ -16,5 +16,4 @@ Oskaras joined our team during his bachelor studies and worked on DNA Curtains a
 
 
 {% include author-research-themes.html %}
-{% include team-member-collaborators.html %}
 {% include publication-list.html %}

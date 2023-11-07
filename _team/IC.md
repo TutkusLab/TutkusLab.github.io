@@ -16,5 +16,4 @@ Ignas joined our team during his bachelor studies and worked on light-harvesting
 
 
 {% include author-research-themes.html %}
-{% include team-member-collaborators.html %}
 {% include publication-list.html %}

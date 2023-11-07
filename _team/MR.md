@@ -16,5 +16,4 @@ Monika joined our team right after her BSc thesis defense.  Currently is studyin
 
 
 {% include author-research-themes.html %}
-{% include team-member-collaborators.html %}
 {% include publication-list.html %}

@@ -15,6 +15,5 @@ supervisors: "Dr. Marijonas Tutkus"
 Šarūnė joined our team during her bachelor studies and worked on DNA Curtains. She worked in our team with some few breaks from 2017 summer till 2022 summer.
 
 {% include author-research-themes.html %}
-{% include team-member-collaborators.html %}
 {% include publication-list.html %}
 

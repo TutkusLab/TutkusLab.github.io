@@ -17,8 +17,3 @@ Marijonas Tutkus during undergraduate studies at Dr Ramūnas Valiokas laboratory
 Currently, he is working in the Department of Protein DNA interaction studies VU and also at Molecular COmpounds Physics Department at FTMC where he is continuing SM studies of various NA-interacting proteins, developing platforms for NA-protein interaction studies, fluorescence microscope software/hardware development, and other research. Marijonas started "building" his own research team during his PhD studies since 2015 summer. In 2017, when he got the first grant, and now he has a multidisciplinary team of BSs, MSc and PhD students under his supervision. Since 2017 he is teaching bachelor level students at the Life Sciences Center of VU (“Quantitative fluorescence microscopy” and “Single-molecule and cellular biophysics methods” courses), and this year got promoted to an Associate Professor position.
 
 Marijonas established international collaborations with D. Stamou (University of Copenhagen), N. Hatzakis (University of Copenhagen), J. Hohlbein (Wageningen UR, The Netherlands), J. Ries (EMBL, Heidelberg), P. Dedecker (KU Leuven, Belgium), Polina Kuzhir (University of Eastern Finland). He has active local collaborations with groups at FTMC: Dr. Ramūnas Valiokas (head of Nanoengineering department), and prof. Vidmantas Gulbinas / prof. Leonas Valkūnas (Head of Molecular Compounds Physics department), and VU: prof. S. Klimašauskas (Head of Department of Biological DNA Modification), S. K. Jones, A. Toleikis (Molecular motors’ group leader).
-
-
-
-  
-
