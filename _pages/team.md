@@ -58,7 +58,7 @@ author_profile: true
 </div>  
   
 <hr-bold>
-<h2>Undergraduate Master Students</h2>
+<h2>Undergraduate Bachelor Students</h2>
 <hr><br>
 <div class="grid">
 <div class="wrapper">
