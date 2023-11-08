@@ -3,7 +3,7 @@ title: "Monika Roliūtė"
 authorname: "Monika Roliūtė"
 collection: team
 header:
-  teaser: MR.jpg
+  teaser: person.png
 tags: postgraduate
 tagline: MSc. Student - Vilnius University
 date: 2021-04-01
