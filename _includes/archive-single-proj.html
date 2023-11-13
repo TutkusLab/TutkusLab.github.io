@@ -29,7 +29,7 @@
         
    {% if post.feature %}
       <div class='pull-right' style='width: 100%; height: 400px; padding: 20px; object-fit: contain;'>
-      <img style='object-fit: cover;' src="{{ post.feature | prepend: "/images/" | prepend: base_path }}">
+      <img style='object-fit: cover; width: 100%;  height: auto;' src="{{ post.feature | prepend: "/images/" | prepend: base_path }}">
      </div>
     {% endif %}
 
