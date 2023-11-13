@@ -17,7 +17,7 @@
     
    {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
-        <img style='object-fit: contain; width: 150%; height: 400px;' src=
+        <img style='object-fit: contain; width: 200%; height: 400px;' src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
           {% else %}
@@ -28,8 +28,8 @@
      {% endif %}
         
    {% if post.feature %}
-      <div class='pull-right' style='width: 100%; height: auto; padding: 20px; object-fit: contain;'>
-      <img style='object-fit: cover; width: 100%;  height: auto;' src="{{ post.feature | prepend: "/images/" | prepend: base_path }}">
+      <div class='pull-right' style='width: 200%; height: auto; padding: 20px; object-fit: contain;'>
+      <img style='object-fit: cover; width: 200%;  height: auto;' src="{{ post.feature | prepend: "/images/" | prepend: base_path }}">
      </div>
     {% endif %}
 
