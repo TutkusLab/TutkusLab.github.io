@@ -27,11 +27,11 @@
       </div>
      {% endif %}
         
-   <!---{% if post.feature %}
+   {% if post.feature %}
       <div class='pull-right' style='width: 200px; height: 200px; padding: 20px; object-fit: contain;'>
       <img style='object-fit: cover;' src="{{ post.feature | prepend: "/images/" | prepend: base_path }}">
      </div>
-    {% endif %}--->
+    {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
