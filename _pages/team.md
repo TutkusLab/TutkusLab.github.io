@@ -38,9 +38,7 @@ author_profile: true
 <div class="wrapper">
   {% for post in site.team %}
     {% if post.tags contains 'phd' %}
-       <div class="archive-single-proj" style="max-width: 400px; margin: 0 auto;"> <!-- Adjust the max-width as needed -->
         {% include archive-single-proj.html type="grid" %}
-      </div>
     {% endif %}
   {% endfor %}
 </div>
