@@ -17,7 +17,7 @@
     
    {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
-        <img style='object-fit: contain;' src=
+        <img style='object-fit: contain; width: 400px; height: 300px;' src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
           {% else %}
