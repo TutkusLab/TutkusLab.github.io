@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <hr-bold>
-<h2>MT Team photo (PI)</h2>
+<h2>MT Team photo</h2>
 <hr><br>
 <div class="grid">
 <div class="wrapper">
