@@ -1,0 +1,15 @@
+---
+title: "Probing Activation and Conformational Dynamics of the Vesicle-Reconstituted β2 Adrenergic Receptor at the Single-Molecule Level"
+collection: publications
+date: 2024-02-23
+venue: 'J. Phys. Chem. B'
+authors: 'Marijonas Tutkus, Christian V. Lundgaard, Salome Veshaguri, Asger Tønnesen, Nikos Hatzakis, Søren G. F. Rasmussen, and Dimitrios Stamou'
+paperurl: https://pubs.acs.org/doi/10.1021/acs.jpcb.3c08349
+tagline: '- Research paper, corresponding author'
+doi: 10.1021/acs.jpcb.3c08349
+type: TM_proteins
+---
+
+<h2> Abstract </h2>
+<p align= "justify">
+G-protein-coupled receptors (GPCRs) are structurally flexible membrane proteins that mediate a host of physiological responses to extracellular ligands like hormones and neurotransmitters. Fine features of their dynamic structural behavior are hypothesized to encode the functional plasticity seen in GPCR activity, where ligands with different efficacies can direct the same receptor toward different signaling phenotypes. Although the number of GPCR crystal structures is increasing, the receptors are characterized by complex and poorly understood conformational landscapes. Therefore, we employed a fluorescence microscopy assay to monitor conformational dynamics of single β2 adrenergic receptors (β2ARs). To increase the biological relevance of our findings, we decided not to reconstitute the receptor in detergent micelles but rather lipid membranes as proteoliposomes. The conformational dynamics were monitored by changes in the intensity of an environmentally sensitive boron-dipyrromethene (BODIPY 493/503) fluorophore conjugated to an endogenous cysteine (located at the cytoplasmic end of the sixth transmembrane helix of the receptor). Using total internal reflection fluorescence microscopy (TIRFM) and a single small unilamellar liposome assay that we previously developed, we followed the real-time dynamic properties of hundreds of single β2ARs reconstituted in a native-like environment─lipid membranes. Our results showed that β2AR-BODIPY fluctuates between several states of different intensity on a time scale of seconds, compared to BODIPY-lipid conjugates that show almost entirely stable fluorescence emission in the absence and presence of the full agonist BI-167107. Agonist stimulation changes the β2AR dynamics, increasing the population of states with higher intensities and prolonging their durations, consistent with bulk experiments. The transition density plot demonstrates that β2AR-BODIPY, in the absence of the full agonist, interconverts between states of low and moderate intensity, while the full agonist renders transitions between moderate and high-intensity states more probable. This redistribution is consistent with a mechanism of conformational selection and is a promising first step toward characterizing the conformational dynamics of GPCRs embedded in a lipid bilayer.
