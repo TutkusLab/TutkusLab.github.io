@@ -1,0 +1,15 @@
+---
+title: "Single‐molecule DNA flow‐stretch assays for high‐throughput DNA–protein interaction studies"
+collection: publications
+date: 2026-10-01
+venue: 'HardwareX'
+authors: 'Ayush Kumar Ganguli, Mohammad Nour Alsamsam, Ugnė Bagdonaitė, Van Truc Vu, Chun‐Jen Huang, Polina Kuzhir, Mindaugas Zaremba, Aurimas Kopūstas, Marijonas Tutkus'
+paperurl: https://febs.onlinelibrary.wiley.com/doi/full/10.1002/2211-5463.70211
+tagline: '- Research paper, corresponding author'
+doi: 10.1002/2211-5463.70211Digital Object Identifier (DOI)
+type: DNA_protein
+---
+
+<h2> Abstract </h2>
+<p align= "justify">
+DNA-interacting proteins are involved in various molecular processes that are fundamental to cells' health and function. These include essential processes such as replication, DNA damage repair and transcriptional regulation. Additionally, DNA-interacting proteins have significant application potential in biotechnology, diagnostics and medicine. Single-molecule techniques enable us to reveal and characterise the behaviour of these proteins, which is typically obscured in molecular biology and biochemistry measurements due to ensemble averaging. Typical low-complexity single-molecule assays work great for mechanistic interaction studies. However, they are limited in terms of DNA substrate length and their arrangement. Therefore, the single-molecule DNA flow-stretch assays were developed, offering a higher level of complexity and a more natural-like approach for probing real-time DNA–protein interactions. They use long linear surface-tethered DNA fragments that can be stretched along the surface using a buffer flow. Here, we present an optimised protocol that focusses on key steps of the experiment, including glass surface preparation, tethering chemistries and fluorescent labelling and imaging of DNA and proteins. In our protocol, bacteriophage λ DNA provides robust flow-induced extension, which is particularly suitable for studying proteins that influence the length of the DNA molecule or translocate along it. The shorter phiX DNA is mostly suitable for testing, optimisation and validation of the assay. This protocol outlines critical considerations for enhancing the reproducibility and accessibility of single-molecule DNA flow-stretch assays, thereby advancing their application in mechanistic, high-throughput and higher-complexity studies of DNA–protein interactions that are widespread across diverse biological systems.
