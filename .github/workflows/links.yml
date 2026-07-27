@@ -1,0 +1,19 @@
+name: Check Links
+
+on:
+  push:
+    branches: [ main, master ]
+  schedule:
+    - cron: '0 0 1 * *' # Runs monthly
+
+jobs:
+  link-checker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --exclude-loopback --verbose ./*.md ./_posts/*.md ./_collaborations/*.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
