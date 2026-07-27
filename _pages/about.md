@@ -43,18 +43,10 @@ Restriction endonucleases (REases) in bacteria and archaea function as defense a
 
 
 <figure style="text-align: center; margin: 20px 0;">
-  <img src='{{ base_path }}/images/dnaLoopingEcl.jpg' alt='Schematic of smFRET-based DNA looping assay' style='width: 75%'>
-  <figcaption style="font-size: 0.85em; color: #555; margin-top: 8px;">
-    <b>Figure 1:</b> Schematic illustration of smFRET-based DNA-looping assay for DNA-ptoein interaction studies.
-  </figcaption>
-</figure>
-
-
-<figure style="text-align: center; margin: 20px 0;">
-  <img src="{{ base_path }}/images/dnaLoopingEcl.jpg" alt="Schematic of smFRET-based DNA looping assay" style="width: 75%;">
-  <figcaption style="font-size: 0.85em; color: #555; margin-top: 8px;">
-    <b>Figure 1:</b> Schematic illustration of DNA looping events induced by a restiction endonuclease monitored by smFRET assay.
-  </figcaption>
+<img src="{{ base_path }}/images/dnaLoopingEcl.jpg" alt="Schematic of smFRET-based DNA looping assay" style="width: 75%;">
+<figcaption style="font-size: 0.85em; color: #555; margin-top: 8px;">
+<b>Figure 1:</b> Schematic illustration of DNA looping events induced by a restiction endonuclease and monitored by smFRET.
+</figcaption>
 </figure>
 
 
@@ -68,10 +60,10 @@ The original DNA Curtains technique is still a little challenging (especially th
 
 
 <figure style="text-align: center; margin: 20px 0;">
-  <img src="{{ base_path }}/images/soft_dna_curtains.jpg" alt="Schematic of single and double-tethered Soft DNA Curtains setup" style="width: 75%">
-  <figcaption style="font-size: 0.85em; color: #555; margin-top: 8px;">
-    <b>Figure 2:</b> Schematic illustration of single- and double-tethered Soft DNA Curtains.
-  </figcaption>
+<img src="{{ base_path }}/images/soft_dna_curtains.jpg" alt="Schematic of single- and double-tethered Oriented Soft DNA Curtains" style="width: 75%;">
+<figcaption style="font-size: 0.85em; color: #555; margin-top: 8px;">
+<b>Figure 2:</b> Schematic illustration of the Oriented Soft DNA Curtains platform showing single- and double-tethered configurations.
+</figcaption>
 </figure>
 
 
@@ -80,12 +72,11 @@ With the help of this LRC funding and our recent grant from Vilnius University S
 </div>
 
 
-
 <figure style="text-align: center; margin: 20px 0;">
-  <img src="{{ base_path }}/images/open_microscopy_image_MT.jpg" alt="Photo and model of miEye setup" style="width: 75%;">
-  <figcaption style="font-size: 0.85em; color: #555; margin-top: 8px;">
-    <b>Figure 2:</b> Photo and model of our open-source miEye bench-top single-molecule localisation microscopy setup.
-  </figcaption>
+<img src="{{ base_path }}/images/open_microscopy_image_MT.jpg" alt="Photograph and CAD model of the open-source miEye super-resolution microscopy setup" style="width: 75%;">
+<figcaption style="font-size: 0.85em; color: #555; margin-top: 8px;">
+<b>Figure 3:</b> Photograph and CAD model of our custom-built, open-source miEye bench-top super-resolution (SMLM approach) microscope.
+</figcaption>
 </figure>
 
 
