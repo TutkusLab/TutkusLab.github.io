@@ -79,13 +79,10 @@ With the help of my recent VU LSC-EMBL Partner Institute Associated Research Fel
 </div>
 
 
-<div style="text-align: center">
-<img src='https://TutkusLab.github.io/images/silatrane_freedom_platform.jpg' style='width: 75%'>
-</div>
-
 <div style="text-align: justify;">
 <h2>The Laboratory</h2>
 </div>
+
 
 <div style="text-align: justify;">
 We're based at the:
