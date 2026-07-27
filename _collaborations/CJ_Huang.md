@@ -26,6 +26,8 @@ Together, we focus on engineering ultra-low-fouling glass flowcells to overcome 
 Our joint research has established new functional silatrane-based surface chemistries that yield thin (<3 nm), homogeneous, antifouling coatings with >95% protein rejection:
 
 <br>
+<br>
+
 Biotin-Silatrane Bio-Interfaces: Developed novel biotin-functionalized silatranes for specific molecular anchoring without non-specific background <a href="https://doi.org/10.1021/acsami.6c05501"><span style="color:blue">ACS Appl. Mater. Interfaces</span></a>.
 
 
