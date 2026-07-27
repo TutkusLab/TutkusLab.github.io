@@ -3,7 +3,7 @@ title: "Chun-Jen Huang"
 authorname: "Huang"
 collection: collaborations
 header:
-  teaser: "huang_lab.png"
+  teaser: person.png
 tags: collaborator
 date: 2021-01-01
 tagline: "Department of Chemical and Materials Engineering, National Central University, Taiwan"

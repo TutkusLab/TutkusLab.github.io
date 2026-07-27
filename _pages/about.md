@@ -14,7 +14,7 @@ image_sliders:
 
 <h2>Aim of our research</h2>
 
-<div style="text-align: left;">
+<div style="text-align: justify;">
 
 Our research team works on developing and application of bionanotechnological platforms and cutting-edge fluorescence microscopy techniques to understand life at the molecular scale. Using these techniques we are trying to answer many interesting questions including these:
 <br>
@@ -31,7 +31,7 @@ Our research team works on developing and application of bionanotechnological pl
 
 <h2>Main topics</h2>
 
-<div style="text-align: left;">
+<div style="text-align: justify;">
 
 DNA-protein interaction occurs on a nanometer length scale at millisecond-to-second timescales. To monitor interactions occurring on the seconds time scale surface immobilization of one of interacting partners is often required. These interactions can be visualized at great detail through: force spectroscopy, fluorescence, Forster resonance energy transfer (FRET), atomic force microscopy (AFM), nanopores, DNA flow-stretch assays, etc [<a href="https://doi.org/10.3390/applnano3010002"><span style="color:blue">A. Kopūstas, et al. Applied Nano, 2022</span></a>]. In general, single-molecule FRET (smFRET) approach worked very well for many different protein-DNA interaction studies.
 
@@ -47,7 +47,7 @@ Restriction endonucleases (REases) in bacteria and archaea function as defense a
 
 
 
-<div style="text-align: left;">
+<div style="text-align: justify;">
 
 Recently our team developed an alternative assay to the original DNA Curtains that we termed the <a href="https://pubs.acs.org/doi/full/10.1021/acs.langmuir.1c00066"><span style="color:blue">Oriented Soft DNA Curtains</span></a>. The main goal of our research is to apply the developed platform for studies of DNA targeting mechanisms of diverse CRISPR-Cas (Clustered regulatory interspaced short palindromic repeats) systems family, novel molecular-tools – prokaryotic Argonaute (pAgo) proteins, and various restriction endonucleases. Since 2017 for these studies we received two grants from the Lithuanian research council. Also, we received funding for a post-doc project dedicated for pAgo studies. 
 
@@ -62,7 +62,7 @@ The original DNA Curtains technique is still a little challenging (especially th
 
 
 
-<div style="text-align: left;">
+<div style="text-align: justify;">
 With the help of this LRC funding and our recent grant from Vilnius University Science Fund (MSF-JM-10/2021) we started development of a home-made fluorescence microscopy dedicated for super-resolution studies. This project involves excitation (TIRF and MM-fiber output formation on the imaging plane), detection and autofocusing systems development and industrial-grade CMOS camera application for such studies. Recently our new set-up was cited <a href="https://www.nature.com/articles/s41592-021-01313-1?proof=t%29Nature"><span style="color:blue">Nature Methods</span></a>. Also, we are working on Python-based microscope control and single-molecule localization microscopy data analysis (SMLM) packages, and the full description is available on our github page <a href="https://github.com/samhitech/microEye"><span style="color:blue">microEye</span></a>. The whole aforementioned hardware and software system was recently published as a fully open-source open-microscopy project that we entitled miEye <a href="https://www.hardware-x.com/article/S2468-0672(22)00113-4/fulltext"><span style="color:blue">HardwareX</span></a>. Our miEye microscopy system was cited in <a href="https://instruct-eric.org/content/instructlt-annual-report-2022"><span style="color:blue">Instruct-LT Annual Report Highlights and New Technologies</span></a>  of the year 2022.
 </div>
 
@@ -72,12 +72,12 @@ With the help of this LRC funding and our recent grant from Vilnius University S
 
 <br>
 
-<div style="text-align: left;">
+<div style="text-align: justify;">
 With the help of my recent VU LSC-EMBL Partner Institute Associated Research Fellowship we started studies of chromosomal rearrangements in gene-edited living yeast cells using super-resolution microscopy and fluidics devices in real time. In this project we employ CRISPR-Cas effector proteins - Cas9 (blunt cut) or Cas12a (sticky-end cut) - to introduce DNA double-stranded breaks (DSBs) at different chromosomal locations in the genome of living fission yeast cells. We select targets based on factors including their chromosomal location, 3-D position in the nucleus, and their epigenetic state. Fission yeast cells have similar genome repair, architecture and regulation to humans, but with smaller genomes and single-cell tractability. Cells loaded into individually-addressable positions within  the fluidics device, allows for their long-lasting imaging. We track DSBs introduction upon induction of Cas protein expression using existing SR-compatible markers (<a href="https://www.tandfonline.com/doi/full/10.1128/MCB.01400-12"><span style="color:blue">FROS array</span></a>) and also develop new ways of labeling specfic genome locus with high singal-to-background ratio. Movement of markers reflects chromosome rearrangement that we can track using SR microscopy.  For these studies we employ our developed miEye hardware and software system <a href="https://www.hardware-x.com/article/S2468-0672(22)00113-4/fulltext"><span style="color:blue">HardwareX</span></a>.
 </div>
 
 
-<div style="text-align: left;">
+<div style="text-align: justify;">
   In collaboration with Prof. Chun-Jen Huang’s group at National Central University (Taiwan), we develop ultra-low-fouling bio-interfaces utilizing specialized silatranes for single-molecule fluorescence microscopy. Conventional single-molecule imaging at substrate interface is often hampered by high background noise and non-specific probe adsorption. To overcome these physical barriers, we engineer ultra-thin (<3 nm) zwitterionic coatings using functionalized biotin-silatranes [<a href="https://doi.org/10.1021/acsami.6c05501"><span style="color:blue">C.-J. Huang, et al. ACS Appl. Mater. Interfaces, 2016</span></a>], as well as sulfobetaine- and aminopropyl-silatranes [<a href="https://doi.org/10.1002/2211-5463.70211"><span style="color:blue">C.-J. Huang, et al. 2021</span></a>; <a href="https://doi.org/10.1038/s41422-025-01198-1"><span style="color:blue">M. Tutkus, et al. Cell Res. 2025</span></a>].
 </div>
 
