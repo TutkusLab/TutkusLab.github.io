@@ -14,5 +14,7 @@ theme: "new methods, hardware, software"
 ---
 <p align= "justify">
 
+One of papers cites both Johannes miCube and our miEye set-up <a href="https://www.nature.com/articles/s41592-021-01313-1?proof=t%29Nature"><span style="color:blue">Nature Methods</span></a>.
+
 {% include author-research-themes.html %}
 {% include collaborator-team-members.html %}
