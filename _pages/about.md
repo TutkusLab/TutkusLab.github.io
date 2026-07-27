@@ -67,8 +67,7 @@ With the help of this LRC funding and our recent grant from Vilnius University S
 </div>
 
 <div style="text-align: center">
-<img src='https://TutkusLab.github.io/images/open_microscopy_image_MT.jpg' style='width: 75%'>
-<img src='{{ base_path }}/images/open_microscopy_image_MT.jpgg' alt='Photo and model of our bench-top miEye single-molecule localisation microscopy set-up.' style='width: 75%'>
+<img src='{{ base_path }}/images/open_microscopy_image_MT.jpg' alt='Photo and model of our bench-top miEye single-molecule localisation microscopy set-up.' style='width: 75%'>
 </div>
 
 <br>
