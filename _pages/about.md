@@ -41,11 +41,13 @@ Restriction endonucleases (REases) in bacteria and archaea function as defense a
 
 </div>
 
-<div style="text-align: center">
-<img src='{{ base_path }}/images/dnaLoopingEcl.jpg' alt='Schematic of smFRET-based DNA looping assay' style='width: 75%'>
-</div>
 
-
+<figure style="text-align: center; margin: 20px 0;">
+  <img src='{{ base_path }}/images/dnaLoopingEcl.jpg' alt='Schematic of smFRET-based DNA looping assay' style='width: 75%'>
+  <figcaption style="font-size: 0.85em; color: #555; margin-top: 8px;">
+    <b>Figure 1:</b> Schematic illustration of single- and double-tethered Soft DNA Curtains.
+  </figcaption>
+</figure>
 
 <div style="text-align: justify;">
 
@@ -56,19 +58,25 @@ The original DNA Curtains technique is still a little challenging (especially th
 
 </div>
 
-<div style="text-align: center">
-<img src='{{ base_path }}/images/soft_dna_curtains.jpg' alt='Schematic of single and double-tethered Soft DNA Curtains setup' style='width: 75%'>
-</div>
-
-
+<figure style="text-align: center; margin: 20px 0;">
+  <img src='{{ base_path }}/images/soft_dna_curtains.jpg' alt='Schematic of single and double-tethered Soft DNA Curtains setup' style='width: 75%'>
+  <figcaption style="font-size: 0.85em; color: #555; margin-top: 8px;">
+    <b>Figure 1:</b> Schematic illustration of single- and double-tethered Soft DNA Curtains.
+  </figcaption>
+</figure>
 
 <div style="text-align: justify;">
 With the help of this LRC funding and our recent grant from Vilnius University Science Fund (MSF-JM-10/2021) we started development of a home-made fluorescence microscopy dedicated for super-resolution studies. This project involves excitation (TIRF and MM-fiber output formation on the imaging plane), detection and autofocusing systems development and industrial-grade CMOS camera application for such studies. Recently our new set-up was cited <a href="https://www.nature.com/articles/s41592-021-01313-1?proof=t%29Nature"><span style="color:blue">Nature Methods</span></a>. Also, we are working on Python-based microscope control and single-molecule localization microscopy data analysis (SMLM) packages, and the full description is available on our github page <a href="https://github.com/samhitech/microEye"><span style="color:blue">microEye</span></a>. The whole aforementioned hardware and software system was recently published as a fully open-source open-microscopy project that we entitled miEye <a href="https://www.hardware-x.com/article/S2468-0672(22)00113-4/fulltext"><span style="color:blue">HardwareX</span></a>. Our miEye microscopy system was cited in <a href="https://instruct-eric.org/content/instructlt-annual-report-2022"><span style="color:blue">Instruct-LT Annual Report Highlights and New Technologies</span></a>  of the year 2022.
 </div>
 
-<div style="text-align: center">
-<img src='{{ base_path }}/images/open_microscopy_image_MT.jpg' alt='Photo and model of our bench-top miEye single-molecule localisation microscopy set-up.' style='width: 75%'>
-</div>
+
+<figure style="text-align: center; margin: 20px 0;">
+  <img <img src='{{ base_path }}/images/open_microscopy_image_MT.jpg' alt='Photo and model of our bench-top miEye single-molecule localisation microscopy set-up.' 
+  <figcaption style="font-size: 0.85em; color: #555; margin-top: 8px;">
+    <b>Figure 1:</b> Schematic illustration of single- and double-tethered Soft DNA Curtains.
+  </figcaption>
+</figure>
+
 
 <br>
 
