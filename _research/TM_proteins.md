@@ -63,6 +63,9 @@ e) find differences, if existing, between antenna complexes quenching under nati
 
 We have applied similar methods for studies of other transmembrane or membrane-related proteins [<a href="https://pubs.acs.org/doi/abs/10.1021/cb400708v"><span style="color:blue">T. Laursen, et al. ACS Chem. Biol., 2014</span></a>], [<a href="https://pubs.acs.org/doi/full/10.1021/jacs.5b08798"><span style="color:blue">M. Li, et al. J. Am. Chem. Soc., 2015</span></a>]. And we continue on working with these assays.
 <br>
+<br>
+
+Integral membrane proteins like carbonic anhydarase IX (CAIX) are not static fixtures; they exist in constant motion, forming transient multi-protein assemblies known as transport metabolons that are strictly required for physiological function. In cancer cells, CAIX drives a reversed pH gradient that promotes tumor invasion and survival.  To decode the real-time regulatory logic of this metabolon, we utilize various fluorescently-labelled probes and advanced surface chemistry developed in collaboration with our Taiwanese partners. Conventional single-molecule tracking fails in this domain due to the steric barrier limiting probe access to CAIX at the basal membrane, compounded by severe background noise from non-specific probe adsorption on glass surfaces.  
 
 {% include theme-team-members.html %}
 {% include publication-list-theme.html %}

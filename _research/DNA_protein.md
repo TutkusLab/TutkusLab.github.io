@@ -43,11 +43,13 @@ The main goal of our research is to apply the developed platform for studies of 
 <img src='https://TutkusLab.github.io/images/soft_dna_curtains.jpg' style='width: 75%'>
 </div>
 
+<br>
 
+Reliable single-molecule interaction studies necessitate robust surface immobilization strategies free from artifact-inducing background noise. Through our collaboration with the Prof. Chun-Jen Huang Lab, we integrate newly developed bio-interfaces, including biotin-silatranes and sulfobetaine-silatranes, into our flowcell architectures. These ultra-low-fouling, zwitterionic coatings provide the precise molecular anchoring required for our complex single-molecule assays, ensuring that fluorescent probes bind only to intended targets and yielding the high signal-to-noise ratios required for automated trajectory analysis. <a href="https://doi.org/10.1038/s41422-025-01198-1"><span style="color:blue">Cell Research / Nature Springer</span></a> ; <a href="https://doi.org/10.1002/2211-5463.70211"><span style="color:blue">FEBS openbio</span></a> ; <a href="https://doi.org/10.1021/acsami.6c05501"><span style="color:blue">ACS Appl. Mater. Interfaces</span></a>
 
 <br>
 
-<a href="https://www.wavemetrics.com/project/TEA_MT"><span style="color:blue">our developed Igor Pro software for fluorescent spot intensity extraction and analysis</span></a>
+Our developed IgorPro software for fluorescent spot intensity extraction and analysis called "TEA_MT": <a href="https://www.wavemetrics.com/project/TEA_MT"><span style="color:blue">Link to the download page.</span></a>
 
 {% include theme-team-members.html %}
 {% include publication-list-theme.html %}
