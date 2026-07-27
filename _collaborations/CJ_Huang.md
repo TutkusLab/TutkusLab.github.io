@@ -8,9 +8,8 @@ tags: collaborator
 date: 2021-01-01
 tagline: "Department of Chemical and Materials Engineering, National Central University, Taiwan"
 subject: "Zwitterionic silatrane bio-interfaces for single-molecule imaging"
-googlescholar: "https://scholar.google.com/citations?user=NCU_Huang_Scholar_ID"
-orcid: "https://orcid.org/0000-0001-XXXX-XXXX"
-uri: "http://www.che.ncu.edu.tw/"
+googlescholar: "https://scholar.google.com/citations?user=K1aOU3gAAAAJ&hl=nl&oi=ao"
+uri: "https://www.cme.ncu.edu.tw/p/404-1015-9814.php?Lang=en"
 theme: "surface chemistry, silatranes, zwitterionic coatings"
 ---
 <p align="justify">
