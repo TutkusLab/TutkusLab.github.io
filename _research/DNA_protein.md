@@ -51,5 +51,7 @@ Reliable single-molecule interaction studies necessitate robust surface immobili
 
 Our developed IgorPro software for fluorescent spot intensity extraction and analysis called "TEA_MT": <a href="https://www.wavemetrics.com/project/TEA_MT"><span style="color:blue">Link to the download page.</span></a>
 
+Our developed IgorPro software for analysis of images acwuired using DNA flow-stretch assays: <a href="https://www.wavemetrics.com/node/22678"><span style="color:blue">Link to the download page.</span></a>
+
 {% include theme-team-members.html %}
 {% include publication-list-theme.html %}

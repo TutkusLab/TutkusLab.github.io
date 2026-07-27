@@ -20,7 +20,7 @@ The TIRF system is well suited to imaging molecules near the coverslip surface (
 
 <br>
 
-In our system, we employ inexpensive but highly capable CMOS cameras. We pair high-frame-rate industrial-grade CMOS cameras with homemade cooling, simultaneous dual channel imaging, and illumination via a diode laser combiner (405, 488, 520, 638 nm) to maximize their utility. Similar commercial equipment would cost > 150 thousand Euro, while our system price is approximately 50 thousand Euro. These attractive solutions required us to develop Python-based microscope control, data acquisition and data analysis packages. Our microEye Python package controls hardware components and performs piezo-tracked autofocus to counter sample drift in the Z-axis. It also performs data processing, such as filtering of acquired images, cropping, Fourier ring correlation (FRC) to estimate systems resolution, thresholding, blob detection and similar. Based on recent discussions and citations (in Nature Methods), we believe that open-microscopy and open-source Python-based data analysis interests and can benefit the wider scientific community. Our work will help bring the latest microscopy technology to more laboratories, including those with limited capital, so that their research is limited by their imaginations rather than their access. This project was already cited by Nature Methods (<a href="https://www.nature.com/articles/s41592-021-01313-1"><span style="color:blue">link</span></a>).
+In our system, we employ inexpensive but highly capable CMOS cameras. We pair high-frame-rate industrial-grade CMOS cameras with homemade cooling, simultaneous dual channel imaging, and illumination via a diode laser combiner (405, 488, 520, 638 nm) to maximize their utility. Similar commercial equipment would cost > 150 thousand Euro, while our system price is approximately 50 thousand Euro. These attractive solutions required us to develop Python-based microscope control, data acquisition and data analysis packages. Our microEye Python package controls hardware components and performs piezo-tracked autofocus to counter sample drift in the Z-axis. It also performs data processing, such as filtering of acquired images, cropping, Fourier ring correlation (FRC) to estimate systems resolution, thresholding, blob detection and similar. Based on recent discussions and citations (in Nature Methods), we believe that open-microscopy and open-source Python-based data analysis interests and can benefit the wider scientific community. Our work will help bring the latest microscopy technology to more laboratories, including those with limited capital, so that their research is limited by their imaginations rather than their access. This project was already featured in Nature Methods Technology Feature article (<a href="https://www.nature.com/articles/s41592-021-01313-1"><span style="color:blue">link</span></a>).
 
 <br>
 
@@ -31,13 +31,16 @@ In our system, we employ inexpensive but highly capable CMOS cameras. We pair hi
 
 <br>
 
-<a href="https://github.com/samhitech/microEye"><span style="color:blue">Here you can find our gitHub repository for the microEye Python package</span></a>
+Our gitHub repository for the microEye data microscoep control, data analysis and visualisation Python package: <a href="https://github.com/samhitech/microEye"><span style="color:blue">Link</span></a>
 
 <br>
 
-<a href="https://osf.io/j2fqy/"><span style="color:blue">Here you can find our OSF repository for the miEye hardware and software package</span></a>
+Our OSF repository for the miEye hardware and software package: <a href="https://osf.io/j2fqy/"><span style="color:blue">Link.</span></a>
 
 <br>
+<br>
+
+Our bench-top super-resolution microscope, the miEye, is optimized for dual-channel TIRF imaging. To push the boundaries of what this hardware can achieve in live-cell environments, we integrate it with cutting-edge flowcell technologies developed alongside our Taiwanese collaborators.  By deploying ultra-thin, unpatterned zwitterionic silatranes and UV-micropatterned elevated cellular wells, we effectively eliminate the non-specific background noise that typically plagues basal membrane imaging. This ensures the miEye system can routinely achieve high-fidelity single-molecule detection, paving the way for advanced tools: <a href="https://doi.org/10.1002/2211-5463.70211"><span style="color:blue">FEBS openbio</span></a>.  
 
 {% include theme-team-members.html %}
 {% include publication-list-theme.html %}
