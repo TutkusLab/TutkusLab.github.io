@@ -88,8 +88,18 @@ With the help of my recent VU LSC-EMBL Partner Institute Associated Research Fel
 
 
 <div style="text-align: justify;">
-  In collaboration with Prof. Chun-Jen Huang’s group at National Central University (Taiwan), we develop ultra-low-fouling bio-interfaces utilizing specialized silatranes for single-molecule fluorescence microscopy. Conventional single-molecule imaging at substrate interface is often hampered by high background noise and non-specific probe adsorption. To overcome these physical barriers, we engineer ultra-thin (<3 nm) zwitterionic coatings using functionalized biotin-silatranes [<a href="https://doi.org/10.1021/acsami.6c05501"><span style="color:blue">C.-J. Huang, et al. ACS Appl. Mater. Interfaces, 2016</span></a>], as well as sulfobetaine- and aminopropyl-silatranes [<a href="https://doi.org/10.1002/2211-5463.70211"><span style="color:blue">C.-J. Huang, et al. 2021</span></a>; <a href="https://doi.org/10.1038/s41422-025-01198-1"><span style="color:blue">M. Tutkus, et al. Cell Res. 2025</span></a>].
+  In collaboration with Prof. Chun-Jen Huang’s group at National Central University (Taiwan), we develop ultra-low-fouling bio-interfaces utilizing specialized silatranes for single-molecule fluorescence microscopy. Conventional single-molecule imaging at substrate interface is often hampered by high background noise and non-specific probe adsorption. To overcome these physical barriers, we engineer ultra-thin (<3 nm) zwitterionic coatings using functionalized biotin-silatranes [<a href="https://doi.org/10.1021/acsami.6c05501"><span style="color:blue">T. N. N. Phan, et al. ACS Appl. Mater. Interfaces, 2026</span></a>], sulfobetaine- and aminopropyl-silatranes [<a href="https://doi.org/10.1002/2211-5463.70211"><span style="color:blue">A. K. Ganguli, et al. FEBS openbio, 2026</span></a>; <a href="https://doi.org/10.1038/s41422-025-01198-1"><span style="color:blue">E. Jurgelaitis, et al. Cell Res. 2025</span></a>].
 </div>
+
+<figure style="text-align: center; margin: 20px 0;">
+<img src="{{ base_path }}/images/silatranes_surface.jpg" alt="Schematics illustrating silatrane-based surface coating and other molecular tools for DNA-protein interactions studies using a DNA flow stretch assay." style="width: 75%;">
+<figcaption style="font-size: 0.85em; color: #555; margin-top: 8px;">
+<b>Figure 3:</b> Schematics illustrating silatrane-based surface coating and other molecular tools for DNA-protein interactions studies using a DNA flow stretch assay..
+</figcaption>
+</figure>
+
+
+<br>
 
 
 <div style="text-align: justify;">
