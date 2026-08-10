@@ -3,7 +3,7 @@ title: "Ernesta Vitulskienė"
 authorname: "Ernesta Vitulskienė"
 collection: team
 header:
-  teaser: pearson.jpg
+  teaser: Ernesta.jpg
 tags: phd
 tagline: Ph.D. Student - FTMC/Vilnius University
 date: 2026-01-01
