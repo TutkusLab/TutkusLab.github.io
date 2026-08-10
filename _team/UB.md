@@ -3,7 +3,7 @@ title: "Ugnė Bagdonaitė"
 authorname: "Ugnė Bagdonaitė"
 collection: team
 header:
-  teaser: Ugne.png
+  teaser: Ugne.jpg
 tags: postgraduate
 tagline: MSc. Student - Vilnius University
 date: 2025-12-06
