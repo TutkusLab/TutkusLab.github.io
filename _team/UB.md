@@ -12,7 +12,7 @@ supervisors: "Dr. Marijonas Tutkus"
 ---
 
 <h2>About Ugnė</h2>
-Ugnė joined our team during her bachelor studies, obtained BSc. degree ..... (VU). Currently she is studying in MSc. Neurobiophysics programme (VU). Ugnė focuses on protein-DNA interaction studies at SM level, and also is highly skilled in protein expression, purification, genetic engineering, and cell work. During the MSc studies, Ugnė concentrates specifically on researching Cas9 interactions with DNA in vivo.
+Ugnė joined our team during her bachelor studies, obtained BSc. degree in Biochemistry (VU). Currently she is studying in MSc. Neurobiophysics programme (VU). Ugnė focuses on protein-DNA interaction studies at SM level, and also is highly skilled in protein expression, purification, genetic engineering, and cell work. During the MSc studies, Ugnė concentrates specifically on researching Cas9 interactions with DNA in vivo.
 
 
 {% include author-research-themes.html %}
