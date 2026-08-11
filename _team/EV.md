@@ -12,7 +12,7 @@ supervisors: "Dr. Marijonas Tutkus"
 ---
 
 <h2>About Ernesta</h2>
-Ernesta joined our team after finishing her master studies in molecular biology. She obtained BSc. degree in molecular biology too (VU). Ernesta currently is a 1st-year Biophysics PhD student at FTMC/VU. Since her BSc studies, EV gained vast experience in cloning, livve-cell work (mammalian), live-cell microscopy. Currently she is focusing on in vivo  SM level studies of different bacteria antiviral defense systems, genetic-loci labelling and transmembrane prtoein studies.
+Ernesta joined our team after finishing her master studies in molecular biology. She obtained BSc. degree in molecular biology (VU). Ernesta currently is a 1st-year Biophysics PhD student at FTMC/VU. Since her BSc studies, EV gained vast experience in cloning, livve-cell work (mammalian), live-cell microscopy. Currently she is focusing on in vivo  SM level studies of different bacteria antiviral defense systems, genetic-loci labelling and transmembrane prtoein studies.
 
 {% include author-research-themes.html %}
 {% include publication-list.html %}
